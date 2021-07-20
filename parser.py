@@ -21,14 +21,14 @@ for x in range(width):
     for y in range(height):
         r, g, b, a = pixels[x, y]
         # skip white pixels
-        if r != 0 and g != 0 and b != 0:
+        if r != 255 and g != 255 and b != 255:
             # print(f'RGB: {r} {g} {b}')
             #print 'x = %s, y = %s, hex = %s' % (x, y, rgb2hex(r, g, b))
 
             # black pixel
-            if r == 255 and g == 255 and b == 255:
+            if r == 0 and g == 0 and b == 0:
                 # axis transformations
-                dx = x
+                dx = -x
                 dy = 0
                 dz = y
                 # result points
