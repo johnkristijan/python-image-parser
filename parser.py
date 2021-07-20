@@ -11,9 +11,9 @@ width, height = img.size
 print(f'Image size: {width}x{height} px')
 
 ## offset
-ox = -51
-oy = 62
-oz = 454
+ox = 40
+oy = 70
+oz = 800
 
 lines = []
 
