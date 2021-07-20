@@ -12,8 +12,10 @@ print(f'Image size: {width}x{height} px')
 
 ## offset
 ox = 40
-oy = 70
+oy = 71
 oz = 800
+
+tall = 5
 
 lines = ['#!/bin/sh']
 
@@ -30,13 +32,14 @@ for x in range(width):
                 # axis transformations
                 dx = -x
                 dy = 0
-                dz = y
+                dz = -y
                 # result points
                 rx = ox + dx
                 ry = oy + dy
+                ry_end = ry + tall
                 rz = oz + dz
 
-                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry} {rz} dirt"'
+                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry_end} {rz} grass_block"'
                 lines.append(fill_command)
                 # print(fill_command)
             else:
