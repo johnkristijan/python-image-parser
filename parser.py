@@ -30,16 +30,16 @@ for x in range(width):
             # black pixel
             if r == 0 and g == 0 and b == 0:
                 # axis transformations
-                dx = -x
+                dx = y # -x
                 dy = 0
-                dz = -y
+                dz = x # -y
                 # result points
                 rx = ox + dx
                 ry = oy + dy
                 ry_end = ry + tall
                 rz = oz + dz
 
-                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry_end} {rz} grass_block"'
+                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry_end} {rz} stone"'
                 lines.append(fill_command)
                 # print(fill_command)
             else:
