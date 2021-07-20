@@ -1,1367 +1,1368 @@
-/fill 40 70 800 40 70 800 dirt
-/fill 40 70 801 40 70 801 dirt
-/fill 40 70 802 40 70 802 dirt
-/fill 40 70 845 40 70 845 dirt
-/fill 40 70 846 40 70 846 dirt
-/fill 40 70 847 40 70 847 dirt
-/fill 40 70 848 40 70 848 dirt
-/fill 39 70 800 39 70 800 dirt
-/fill 39 70 801 39 70 801 dirt
-/fill 39 70 802 39 70 802 dirt
-/fill 39 70 845 39 70 845 dirt
-/fill 39 70 846 39 70 846 dirt
-/fill 39 70 847 39 70 847 dirt
-/fill 39 70 848 39 70 848 dirt
-/fill 38 70 800 38 70 800 dirt
-/fill 38 70 801 38 70 801 dirt
-/fill 38 70 802 38 70 802 dirt
-/fill 38 70 845 38 70 845 dirt
-/fill 38 70 846 38 70 846 dirt
-/fill 38 70 847 38 70 847 dirt
-/fill 38 70 848 38 70 848 dirt
-/fill 37 70 800 37 70 800 dirt
-/fill 37 70 801 37 70 801 dirt
-/fill 37 70 802 37 70 802 dirt
-/fill 37 70 845 37 70 845 dirt
-/fill 37 70 846 37 70 846 dirt
-/fill 37 70 847 37 70 847 dirt
-/fill 37 70 848 37 70 848 dirt
-/fill 36 70 800 36 70 800 dirt
-/fill 36 70 801 36 70 801 dirt
-/fill 36 70 802 36 70 802 dirt
-/fill 36 70 845 36 70 845 dirt
-/fill 36 70 846 36 70 846 dirt
-/fill 36 70 847 36 70 847 dirt
-/fill 36 70 848 36 70 848 dirt
-/fill 35 70 800 35 70 800 dirt
-/fill 35 70 801 35 70 801 dirt
-/fill 35 70 802 35 70 802 dirt
-/fill 35 70 845 35 70 845 dirt
-/fill 35 70 846 35 70 846 dirt
-/fill 35 70 847 35 70 847 dirt
-/fill 35 70 848 35 70 848 dirt
-/fill 34 70 800 34 70 800 dirt
-/fill 34 70 801 34 70 801 dirt
-/fill 34 70 802 34 70 802 dirt
-/fill 34 70 845 34 70 845 dirt
-/fill 34 70 846 34 70 846 dirt
-/fill 34 70 847 34 70 847 dirt
-/fill 34 70 848 34 70 848 dirt
-/fill 33 70 800 33 70 800 dirt
-/fill 33 70 801 33 70 801 dirt
-/fill 33 70 802 33 70 802 dirt
-/fill 33 70 845 33 70 845 dirt
-/fill 33 70 846 33 70 846 dirt
-/fill 33 70 847 33 70 847 dirt
-/fill 33 70 848 33 70 848 dirt
-/fill 32 70 800 32 70 800 dirt
-/fill 32 70 801 32 70 801 dirt
-/fill 32 70 802 32 70 802 dirt
-/fill 32 70 845 32 70 845 dirt
-/fill 32 70 846 32 70 846 dirt
-/fill 32 70 847 32 70 847 dirt
-/fill 32 70 848 32 70 848 dirt
-/fill 31 70 800 31 70 800 dirt
-/fill 31 70 801 31 70 801 dirt
-/fill 31 70 802 31 70 802 dirt
-/fill 31 70 845 31 70 845 dirt
-/fill 31 70 846 31 70 846 dirt
-/fill 31 70 847 31 70 847 dirt
-/fill 31 70 848 31 70 848 dirt
-/fill 30 70 800 30 70 800 dirt
-/fill 30 70 801 30 70 801 dirt
-/fill 30 70 802 30 70 802 dirt
-/fill 30 70 845 30 70 845 dirt
-/fill 30 70 846 30 70 846 dirt
-/fill 30 70 847 30 70 847 dirt
-/fill 30 70 848 30 70 848 dirt
-/fill 29 70 800 29 70 800 dirt
-/fill 29 70 801 29 70 801 dirt
-/fill 29 70 802 29 70 802 dirt
-/fill 29 70 845 29 70 845 dirt
-/fill 29 70 846 29 70 846 dirt
-/fill 29 70 847 29 70 847 dirt
-/fill 29 70 848 29 70 848 dirt
-/fill 28 70 800 28 70 800 dirt
-/fill 28 70 801 28 70 801 dirt
-/fill 28 70 802 28 70 802 dirt
-/fill 28 70 845 28 70 845 dirt
-/fill 28 70 846 28 70 846 dirt
-/fill 28 70 847 28 70 847 dirt
-/fill 28 70 848 28 70 848 dirt
-/fill 27 70 800 27 70 800 dirt
-/fill 27 70 801 27 70 801 dirt
-/fill 27 70 802 27 70 802 dirt
-/fill 27 70 845 27 70 845 dirt
-/fill 27 70 846 27 70 846 dirt
-/fill 27 70 847 27 70 847 dirt
-/fill 27 70 848 27 70 848 dirt
-/fill 26 70 800 26 70 800 dirt
-/fill 26 70 801 26 70 801 dirt
-/fill 26 70 802 26 70 802 dirt
-/fill 26 70 845 26 70 845 dirt
-/fill 26 70 846 26 70 846 dirt
-/fill 26 70 847 26 70 847 dirt
-/fill 26 70 848 26 70 848 dirt
-/fill 25 70 800 25 70 800 dirt
-/fill 25 70 801 25 70 801 dirt
-/fill 25 70 802 25 70 802 dirt
-/fill 25 70 845 25 70 845 dirt
-/fill 25 70 846 25 70 846 dirt
-/fill 25 70 847 25 70 847 dirt
-/fill 25 70 848 25 70 848 dirt
-/fill 24 70 800 24 70 800 dirt
-/fill 24 70 801 24 70 801 dirt
-/fill 24 70 802 24 70 802 dirt
-/fill 24 70 845 24 70 845 dirt
-/fill 24 70 846 24 70 846 dirt
-/fill 24 70 847 24 70 847 dirt
-/fill 24 70 848 24 70 848 dirt
-/fill 23 70 800 23 70 800 dirt
-/fill 23 70 801 23 70 801 dirt
-/fill 23 70 802 23 70 802 dirt
-/fill 23 70 845 23 70 845 dirt
-/fill 23 70 846 23 70 846 dirt
-/fill 23 70 847 23 70 847 dirt
-/fill 23 70 848 23 70 848 dirt
-/fill 22 70 800 22 70 800 dirt
-/fill 22 70 801 22 70 801 dirt
-/fill 22 70 802 22 70 802 dirt
-/fill 22 70 845 22 70 845 dirt
-/fill 22 70 846 22 70 846 dirt
-/fill 22 70 847 22 70 847 dirt
-/fill 22 70 848 22 70 848 dirt
-/fill 21 70 800 21 70 800 dirt
-/fill 21 70 801 21 70 801 dirt
-/fill 21 70 802 21 70 802 dirt
-/fill 21 70 845 21 70 845 dirt
-/fill 21 70 846 21 70 846 dirt
-/fill 21 70 847 21 70 847 dirt
-/fill 21 70 848 21 70 848 dirt
-/fill 20 70 800 20 70 800 dirt
-/fill 20 70 801 20 70 801 dirt
-/fill 20 70 802 20 70 802 dirt
-/fill 20 70 845 20 70 845 dirt
-/fill 20 70 846 20 70 846 dirt
-/fill 20 70 847 20 70 847 dirt
-/fill 20 70 848 20 70 848 dirt
-/fill 19 70 800 19 70 800 dirt
-/fill 19 70 801 19 70 801 dirt
-/fill 19 70 802 19 70 802 dirt
-/fill 19 70 845 19 70 845 dirt
-/fill 19 70 846 19 70 846 dirt
-/fill 19 70 847 19 70 847 dirt
-/fill 19 70 848 19 70 848 dirt
-/fill 18 70 800 18 70 800 dirt
-/fill 18 70 801 18 70 801 dirt
-/fill 18 70 802 18 70 802 dirt
-/fill 18 70 845 18 70 845 dirt
-/fill 18 70 846 18 70 846 dirt
-/fill 18 70 847 18 70 847 dirt
-/fill 18 70 848 18 70 848 dirt
-/fill 17 70 800 17 70 800 dirt
-/fill 17 70 801 17 70 801 dirt
-/fill 17 70 802 17 70 802 dirt
-/fill 17 70 845 17 70 845 dirt
-/fill 17 70 846 17 70 846 dirt
-/fill 17 70 847 17 70 847 dirt
-/fill 17 70 848 17 70 848 dirt
-/fill 16 70 800 16 70 800 dirt
-/fill 16 70 801 16 70 801 dirt
-/fill 16 70 802 16 70 802 dirt
-/fill 16 70 845 16 70 845 dirt
-/fill 16 70 846 16 70 846 dirt
-/fill 16 70 847 16 70 847 dirt
-/fill 16 70 848 16 70 848 dirt
-/fill 15 70 800 15 70 800 dirt
-/fill 15 70 801 15 70 801 dirt
-/fill 15 70 802 15 70 802 dirt
-/fill 15 70 845 15 70 845 dirt
-/fill 15 70 846 15 70 846 dirt
-/fill 15 70 847 15 70 847 dirt
-/fill 15 70 848 15 70 848 dirt
-/fill 14 70 800 14 70 800 dirt
-/fill 14 70 801 14 70 801 dirt
-/fill 14 70 802 14 70 802 dirt
-/fill 14 70 845 14 70 845 dirt
-/fill 14 70 846 14 70 846 dirt
-/fill 14 70 847 14 70 847 dirt
-/fill 14 70 848 14 70 848 dirt
-/fill 13 70 800 13 70 800 dirt
-/fill 13 70 801 13 70 801 dirt
-/fill 13 70 802 13 70 802 dirt
-/fill 13 70 845 13 70 845 dirt
-/fill 13 70 846 13 70 846 dirt
-/fill 13 70 847 13 70 847 dirt
-/fill 13 70 848 13 70 848 dirt
-/fill 12 70 800 12 70 800 dirt
-/fill 12 70 801 12 70 801 dirt
-/fill 12 70 802 12 70 802 dirt
-/fill 12 70 845 12 70 845 dirt
-/fill 12 70 846 12 70 846 dirt
-/fill 12 70 847 12 70 847 dirt
-/fill 12 70 848 12 70 848 dirt
-/fill 11 70 800 11 70 800 dirt
-/fill 11 70 801 11 70 801 dirt
-/fill 11 70 802 11 70 802 dirt
-/fill 11 70 845 11 70 845 dirt
-/fill 11 70 846 11 70 846 dirt
-/fill 11 70 847 11 70 847 dirt
-/fill 11 70 848 11 70 848 dirt
-/fill 10 70 800 10 70 800 dirt
-/fill 10 70 801 10 70 801 dirt
-/fill 10 70 802 10 70 802 dirt
-/fill 10 70 845 10 70 845 dirt
-/fill 10 70 846 10 70 846 dirt
-/fill 10 70 847 10 70 847 dirt
-/fill 10 70 848 10 70 848 dirt
-/fill 9 70 800 9 70 800 dirt
-/fill 9 70 801 9 70 801 dirt
-/fill 9 70 802 9 70 802 dirt
-/fill -1 70 800 -1 70 800 dirt
-/fill -1 70 801 -1 70 801 dirt
-/fill -1 70 802 -1 70 802 dirt
-/fill -1 70 803 -1 70 803 dirt
-/fill -1 70 804 -1 70 804 dirt
-/fill -1 70 805 -1 70 805 dirt
-/fill -1 70 806 -1 70 806 dirt
-/fill -1 70 807 -1 70 807 dirt
-/fill -1 70 808 -1 70 808 dirt
-/fill -1 70 809 -1 70 809 dirt
-/fill -1 70 810 -1 70 810 dirt
-/fill -1 70 811 -1 70 811 dirt
-/fill -1 70 812 -1 70 812 dirt
-/fill -2 70 800 -2 70 800 dirt
-/fill -2 70 801 -2 70 801 dirt
-/fill -2 70 802 -2 70 802 dirt
-/fill -2 70 803 -2 70 803 dirt
-/fill -2 70 804 -2 70 804 dirt
-/fill -2 70 805 -2 70 805 dirt
-/fill -2 70 806 -2 70 806 dirt
-/fill -2 70 807 -2 70 807 dirt
-/fill -2 70 808 -2 70 808 dirt
-/fill -2 70 809 -2 70 809 dirt
-/fill -2 70 810 -2 70 810 dirt
-/fill -2 70 811 -2 70 811 dirt
-/fill -2 70 812 -2 70 812 dirt
-/fill -3 70 800 -3 70 800 dirt
-/fill -3 70 801 -3 70 801 dirt
-/fill -3 70 802 -3 70 802 dirt
-/fill -3 70 803 -3 70 803 dirt
-/fill -3 70 804 -3 70 804 dirt
-/fill -3 70 805 -3 70 805 dirt
-/fill -3 70 806 -3 70 806 dirt
-/fill -3 70 807 -3 70 807 dirt
-/fill -3 70 808 -3 70 808 dirt
-/fill -3 70 809 -3 70 809 dirt
-/fill -3 70 810 -3 70 810 dirt
-/fill -3 70 811 -3 70 811 dirt
-/fill -3 70 812 -3 70 812 dirt
-/fill -4 70 800 -4 70 800 dirt
-/fill -4 70 801 -4 70 801 dirt
-/fill -4 70 802 -4 70 802 dirt
-/fill -4 70 803 -4 70 803 dirt
-/fill -4 70 804 -4 70 804 dirt
-/fill -4 70 805 -4 70 805 dirt
-/fill -4 70 806 -4 70 806 dirt
-/fill -4 70 807 -4 70 807 dirt
-/fill -4 70 808 -4 70 808 dirt
-/fill -4 70 809 -4 70 809 dirt
-/fill -4 70 810 -4 70 810 dirt
-/fill -4 70 811 -4 70 811 dirt
-/fill -4 70 812 -4 70 812 dirt
-/fill -5 70 800 -5 70 800 dirt
-/fill -5 70 801 -5 70 801 dirt
-/fill -5 70 802 -5 70 802 dirt
-/fill -5 70 803 -5 70 803 dirt
-/fill -5 70 804 -5 70 804 dirt
-/fill -5 70 805 -5 70 805 dirt
-/fill -5 70 806 -5 70 806 dirt
-/fill -5 70 807 -5 70 807 dirt
-/fill -5 70 808 -5 70 808 dirt
-/fill -5 70 809 -5 70 809 dirt
-/fill -5 70 810 -5 70 810 dirt
-/fill -5 70 811 -5 70 811 dirt
-/fill -5 70 812 -5 70 812 dirt
-/fill -6 70 800 -6 70 800 dirt
-/fill -6 70 801 -6 70 801 dirt
-/fill -6 70 802 -6 70 802 dirt
-/fill -6 70 803 -6 70 803 dirt
-/fill -6 70 804 -6 70 804 dirt
-/fill -6 70 805 -6 70 805 dirt
-/fill -6 70 806 -6 70 806 dirt
-/fill -6 70 807 -6 70 807 dirt
-/fill -6 70 808 -6 70 808 dirt
-/fill -6 70 809 -6 70 809 dirt
-/fill -6 70 810 -6 70 810 dirt
-/fill -6 70 811 -6 70 811 dirt
-/fill -6 70 812 -6 70 812 dirt
-/fill -7 70 800 -7 70 800 dirt
-/fill -7 70 801 -7 70 801 dirt
-/fill -7 70 802 -7 70 802 dirt
-/fill -7 70 803 -7 70 803 dirt
-/fill -7 70 804 -7 70 804 dirt
-/fill -7 70 805 -7 70 805 dirt
-/fill -7 70 806 -7 70 806 dirt
-/fill -7 70 807 -7 70 807 dirt
-/fill -7 70 808 -7 70 808 dirt
-/fill -7 70 809 -7 70 809 dirt
-/fill -7 70 810 -7 70 810 dirt
-/fill -7 70 811 -7 70 811 dirt
-/fill -7 70 812 -7 70 812 dirt
-/fill -8 70 800 -8 70 800 dirt
-/fill -8 70 801 -8 70 801 dirt
-/fill -8 70 802 -8 70 802 dirt
-/fill -8 70 803 -8 70 803 dirt
-/fill -8 70 804 -8 70 804 dirt
-/fill -8 70 805 -8 70 805 dirt
-/fill -8 70 806 -8 70 806 dirt
-/fill -8 70 807 -8 70 807 dirt
-/fill -8 70 808 -8 70 808 dirt
-/fill -8 70 809 -8 70 809 dirt
-/fill -8 70 810 -8 70 810 dirt
-/fill -8 70 811 -8 70 811 dirt
-/fill -8 70 812 -8 70 812 dirt
-/fill -9 70 800 -9 70 800 dirt
-/fill -9 70 801 -9 70 801 dirt
-/fill -9 70 802 -9 70 802 dirt
-/fill -9 70 803 -9 70 803 dirt
-/fill -9 70 804 -9 70 804 dirt
-/fill -9 70 805 -9 70 805 dirt
-/fill -9 70 806 -9 70 806 dirt
-/fill -9 70 807 -9 70 807 dirt
-/fill -9 70 808 -9 70 808 dirt
-/fill -9 70 809 -9 70 809 dirt
-/fill -9 70 810 -9 70 810 dirt
-/fill -9 70 811 -9 70 811 dirt
-/fill -9 70 812 -9 70 812 dirt
-/fill -10 70 800 -10 70 800 dirt
-/fill -10 70 801 -10 70 801 dirt
-/fill -10 70 802 -10 70 802 dirt
-/fill -10 70 803 -10 70 803 dirt
-/fill -10 70 804 -10 70 804 dirt
-/fill -10 70 805 -10 70 805 dirt
-/fill -10 70 806 -10 70 806 dirt
-/fill -10 70 807 -10 70 807 dirt
-/fill -10 70 808 -10 70 808 dirt
-/fill -10 70 809 -10 70 809 dirt
-/fill -10 70 810 -10 70 810 dirt
-/fill -10 70 811 -10 70 811 dirt
-/fill -10 70 812 -10 70 812 dirt
-/fill -11 70 800 -11 70 800 dirt
-/fill -11 70 801 -11 70 801 dirt
-/fill -11 70 802 -11 70 802 dirt
-/fill -11 70 803 -11 70 803 dirt
-/fill -11 70 804 -11 70 804 dirt
-/fill -11 70 805 -11 70 805 dirt
-/fill -11 70 806 -11 70 806 dirt
-/fill -11 70 807 -11 70 807 dirt
-/fill -11 70 808 -11 70 808 dirt
-/fill -11 70 809 -11 70 809 dirt
-/fill -11 70 810 -11 70 810 dirt
-/fill -11 70 811 -11 70 811 dirt
-/fill -11 70 812 -11 70 812 dirt
-/fill -12 70 800 -12 70 800 dirt
-/fill -12 70 801 -12 70 801 dirt
-/fill -12 70 802 -12 70 802 dirt
-/fill -12 70 803 -12 70 803 dirt
-/fill -12 70 804 -12 70 804 dirt
-/fill -12 70 805 -12 70 805 dirt
-/fill -12 70 806 -12 70 806 dirt
-/fill -12 70 807 -12 70 807 dirt
-/fill -12 70 808 -12 70 808 dirt
-/fill -12 70 809 -12 70 809 dirt
-/fill -12 70 810 -12 70 810 dirt
-/fill -12 70 811 -12 70 811 dirt
-/fill -12 70 812 -12 70 812 dirt
-/fill -13 70 800 -13 70 800 dirt
-/fill -13 70 801 -13 70 801 dirt
-/fill -13 70 802 -13 70 802 dirt
-/fill -13 70 803 -13 70 803 dirt
-/fill -13 70 804 -13 70 804 dirt
-/fill -13 70 805 -13 70 805 dirt
-/fill -13 70 806 -13 70 806 dirt
-/fill -13 70 807 -13 70 807 dirt
-/fill -13 70 808 -13 70 808 dirt
-/fill -13 70 809 -13 70 809 dirt
-/fill -13 70 810 -13 70 810 dirt
-/fill -13 70 811 -13 70 811 dirt
-/fill -13 70 812 -13 70 812 dirt
-/fill -14 70 800 -14 70 800 dirt
-/fill -14 70 801 -14 70 801 dirt
-/fill -14 70 802 -14 70 802 dirt
-/fill -14 70 803 -14 70 803 dirt
-/fill -14 70 804 -14 70 804 dirt
-/fill -14 70 805 -14 70 805 dirt
-/fill -14 70 806 -14 70 806 dirt
-/fill -14 70 807 -14 70 807 dirt
-/fill -14 70 808 -14 70 808 dirt
-/fill -14 70 809 -14 70 809 dirt
-/fill -14 70 810 -14 70 810 dirt
-/fill -14 70 811 -14 70 811 dirt
-/fill -14 70 812 -14 70 812 dirt
-/fill -15 70 800 -15 70 800 dirt
-/fill -15 70 801 -15 70 801 dirt
-/fill -15 70 802 -15 70 802 dirt
-/fill -15 70 803 -15 70 803 dirt
-/fill -15 70 804 -15 70 804 dirt
-/fill -15 70 805 -15 70 805 dirt
-/fill -15 70 806 -15 70 806 dirt
-/fill -15 70 807 -15 70 807 dirt
-/fill -15 70 808 -15 70 808 dirt
-/fill -15 70 809 -15 70 809 dirt
-/fill -15 70 810 -15 70 810 dirt
-/fill -15 70 811 -15 70 811 dirt
-/fill -15 70 812 -15 70 812 dirt
-/fill -16 70 800 -16 70 800 dirt
-/fill -16 70 801 -16 70 801 dirt
-/fill -16 70 802 -16 70 802 dirt
-/fill -16 70 803 -16 70 803 dirt
-/fill -16 70 804 -16 70 804 dirt
-/fill -16 70 805 -16 70 805 dirt
-/fill -16 70 806 -16 70 806 dirt
-/fill -16 70 807 -16 70 807 dirt
-/fill -16 70 808 -16 70 808 dirt
-/fill -16 70 809 -16 70 809 dirt
-/fill -16 70 810 -16 70 810 dirt
-/fill -16 70 811 -16 70 811 dirt
-/fill -16 70 812 -16 70 812 dirt
-/fill -17 70 800 -17 70 800 dirt
-/fill -17 70 801 -17 70 801 dirt
-/fill -17 70 802 -17 70 802 dirt
-/fill -17 70 803 -17 70 803 dirt
-/fill -17 70 804 -17 70 804 dirt
-/fill -17 70 805 -17 70 805 dirt
-/fill -17 70 806 -17 70 806 dirt
-/fill -17 70 807 -17 70 807 dirt
-/fill -17 70 808 -17 70 808 dirt
-/fill -17 70 809 -17 70 809 dirt
-/fill -17 70 810 -17 70 810 dirt
-/fill -17 70 811 -17 70 811 dirt
-/fill -17 70 812 -17 70 812 dirt
-/fill -18 70 800 -18 70 800 dirt
-/fill -18 70 801 -18 70 801 dirt
-/fill -18 70 802 -18 70 802 dirt
-/fill -18 70 803 -18 70 803 dirt
-/fill -18 70 804 -18 70 804 dirt
-/fill -18 70 805 -18 70 805 dirt
-/fill -18 70 806 -18 70 806 dirt
-/fill -18 70 807 -18 70 807 dirt
-/fill -18 70 808 -18 70 808 dirt
-/fill -18 70 809 -18 70 809 dirt
-/fill -18 70 810 -18 70 810 dirt
-/fill -18 70 811 -18 70 811 dirt
-/fill -18 70 812 -18 70 812 dirt
-/fill -19 70 800 -19 70 800 dirt
-/fill -19 70 801 -19 70 801 dirt
-/fill -19 70 802 -19 70 802 dirt
-/fill -19 70 803 -19 70 803 dirt
-/fill -19 70 804 -19 70 804 dirt
-/fill -19 70 805 -19 70 805 dirt
-/fill -19 70 806 -19 70 806 dirt
-/fill -19 70 807 -19 70 807 dirt
-/fill -19 70 808 -19 70 808 dirt
-/fill -19 70 809 -19 70 809 dirt
-/fill -19 70 810 -19 70 810 dirt
-/fill -19 70 811 -19 70 811 dirt
-/fill -19 70 812 -19 70 812 dirt
-/fill -20 70 800 -20 70 800 dirt
-/fill -20 70 801 -20 70 801 dirt
-/fill -20 70 802 -20 70 802 dirt
-/fill -20 70 803 -20 70 803 dirt
-/fill -20 70 804 -20 70 804 dirt
-/fill -20 70 805 -20 70 805 dirt
-/fill -20 70 806 -20 70 806 dirt
-/fill -20 70 807 -20 70 807 dirt
-/fill -20 70 808 -20 70 808 dirt
-/fill -20 70 809 -20 70 809 dirt
-/fill -20 70 810 -20 70 810 dirt
-/fill -20 70 811 -20 70 811 dirt
-/fill -20 70 812 -20 70 812 dirt
-/fill -21 70 800 -21 70 800 dirt
-/fill -21 70 801 -21 70 801 dirt
-/fill -21 70 802 -21 70 802 dirt
-/fill -21 70 803 -21 70 803 dirt
-/fill -21 70 804 -21 70 804 dirt
-/fill -21 70 805 -21 70 805 dirt
-/fill -21 70 806 -21 70 806 dirt
-/fill -21 70 807 -21 70 807 dirt
-/fill -21 70 808 -21 70 808 dirt
-/fill -21 70 809 -21 70 809 dirt
-/fill -21 70 810 -21 70 810 dirt
-/fill -21 70 811 -21 70 811 dirt
-/fill -21 70 812 -21 70 812 dirt
-/fill -22 70 800 -22 70 800 dirt
-/fill -22 70 801 -22 70 801 dirt
-/fill -22 70 802 -22 70 802 dirt
-/fill -22 70 803 -22 70 803 dirt
-/fill -22 70 804 -22 70 804 dirt
-/fill -22 70 805 -22 70 805 dirt
-/fill -22 70 806 -22 70 806 dirt
-/fill -22 70 807 -22 70 807 dirt
-/fill -22 70 808 -22 70 808 dirt
-/fill -22 70 809 -22 70 809 dirt
-/fill -22 70 810 -22 70 810 dirt
-/fill -22 70 811 -22 70 811 dirt
-/fill -22 70 812 -22 70 812 dirt
-/fill -23 70 800 -23 70 800 dirt
-/fill -23 70 801 -23 70 801 dirt
-/fill -23 70 802 -23 70 802 dirt
-/fill -23 70 803 -23 70 803 dirt
-/fill -23 70 804 -23 70 804 dirt
-/fill -23 70 805 -23 70 805 dirt
-/fill -23 70 806 -23 70 806 dirt
-/fill -23 70 807 -23 70 807 dirt
-/fill -23 70 808 -23 70 808 dirt
-/fill -23 70 809 -23 70 809 dirt
-/fill -23 70 810 -23 70 810 dirt
-/fill -23 70 811 -23 70 811 dirt
-/fill -23 70 812 -23 70 812 dirt
-/fill -24 70 800 -24 70 800 dirt
-/fill -24 70 801 -24 70 801 dirt
-/fill -24 70 802 -24 70 802 dirt
-/fill -24 70 803 -24 70 803 dirt
-/fill -24 70 804 -24 70 804 dirt
-/fill -24 70 805 -24 70 805 dirt
-/fill -24 70 806 -24 70 806 dirt
-/fill -24 70 807 -24 70 807 dirt
-/fill -24 70 808 -24 70 808 dirt
-/fill -24 70 809 -24 70 809 dirt
-/fill -24 70 810 -24 70 810 dirt
-/fill -24 70 811 -24 70 811 dirt
-/fill -24 70 812 -24 70 812 dirt
-/fill -25 70 800 -25 70 800 dirt
-/fill -25 70 801 -25 70 801 dirt
-/fill -25 70 802 -25 70 802 dirt
-/fill -25 70 803 -25 70 803 dirt
-/fill -25 70 804 -25 70 804 dirt
-/fill -25 70 805 -25 70 805 dirt
-/fill -25 70 806 -25 70 806 dirt
-/fill -25 70 807 -25 70 807 dirt
-/fill -25 70 808 -25 70 808 dirt
-/fill -25 70 809 -25 70 809 dirt
-/fill -25 70 810 -25 70 810 dirt
-/fill -25 70 811 -25 70 811 dirt
-/fill -25 70 812 -25 70 812 dirt
-/fill -26 70 800 -26 70 800 dirt
-/fill -26 70 801 -26 70 801 dirt
-/fill -26 70 802 -26 70 802 dirt
-/fill -26 70 803 -26 70 803 dirt
-/fill -26 70 804 -26 70 804 dirt
-/fill -26 70 805 -26 70 805 dirt
-/fill -26 70 806 -26 70 806 dirt
-/fill -26 70 807 -26 70 807 dirt
-/fill -26 70 808 -26 70 808 dirt
-/fill -26 70 809 -26 70 809 dirt
-/fill -26 70 810 -26 70 810 dirt
-/fill -26 70 811 -26 70 811 dirt
-/fill -26 70 812 -26 70 812 dirt
-/fill -27 70 800 -27 70 800 dirt
-/fill -27 70 801 -27 70 801 dirt
-/fill -27 70 802 -27 70 802 dirt
-/fill -27 70 803 -27 70 803 dirt
-/fill -27 70 804 -27 70 804 dirt
-/fill -27 70 805 -27 70 805 dirt
-/fill -27 70 806 -27 70 806 dirt
-/fill -27 70 807 -27 70 807 dirt
-/fill -27 70 808 -27 70 808 dirt
-/fill -27 70 809 -27 70 809 dirt
-/fill -27 70 810 -27 70 810 dirt
-/fill -27 70 811 -27 70 811 dirt
-/fill -27 70 812 -27 70 812 dirt
-/fill -28 70 800 -28 70 800 dirt
-/fill -28 70 801 -28 70 801 dirt
-/fill -28 70 802 -28 70 802 dirt
-/fill -28 70 803 -28 70 803 dirt
-/fill -28 70 804 -28 70 804 dirt
-/fill -28 70 805 -28 70 805 dirt
-/fill -28 70 806 -28 70 806 dirt
-/fill -28 70 807 -28 70 807 dirt
-/fill -28 70 808 -28 70 808 dirt
-/fill -28 70 809 -28 70 809 dirt
-/fill -28 70 810 -28 70 810 dirt
-/fill -28 70 811 -28 70 811 dirt
-/fill -28 70 812 -28 70 812 dirt
-/fill -29 70 800 -29 70 800 dirt
-/fill -29 70 801 -29 70 801 dirt
-/fill -29 70 802 -29 70 802 dirt
-/fill -29 70 803 -29 70 803 dirt
-/fill -29 70 804 -29 70 804 dirt
-/fill -29 70 805 -29 70 805 dirt
-/fill -29 70 806 -29 70 806 dirt
-/fill -29 70 807 -29 70 807 dirt
-/fill -29 70 808 -29 70 808 dirt
-/fill -29 70 809 -29 70 809 dirt
-/fill -29 70 810 -29 70 810 dirt
-/fill -29 70 811 -29 70 811 dirt
-/fill -29 70 812 -29 70 812 dirt
-/fill -30 70 800 -30 70 800 dirt
-/fill -30 70 801 -30 70 801 dirt
-/fill -30 70 802 -30 70 802 dirt
-/fill -30 70 803 -30 70 803 dirt
-/fill -30 70 804 -30 70 804 dirt
-/fill -30 70 805 -30 70 805 dirt
-/fill -30 70 806 -30 70 806 dirt
-/fill -30 70 807 -30 70 807 dirt
-/fill -30 70 808 -30 70 808 dirt
-/fill -30 70 809 -30 70 809 dirt
-/fill -30 70 810 -30 70 810 dirt
-/fill -30 70 811 -30 70 811 dirt
-/fill -30 70 812 -30 70 812 dirt
-/fill -31 70 800 -31 70 800 dirt
-/fill -31 70 801 -31 70 801 dirt
-/fill -31 70 802 -31 70 802 dirt
-/fill -31 70 803 -31 70 803 dirt
-/fill -31 70 804 -31 70 804 dirt
-/fill -31 70 805 -31 70 805 dirt
-/fill -31 70 806 -31 70 806 dirt
-/fill -31 70 807 -31 70 807 dirt
-/fill -31 70 808 -31 70 808 dirt
-/fill -31 70 809 -31 70 809 dirt
-/fill -31 70 810 -31 70 810 dirt
-/fill -31 70 811 -31 70 811 dirt
-/fill -31 70 812 -31 70 812 dirt
-/fill -32 70 800 -32 70 800 dirt
-/fill -32 70 801 -32 70 801 dirt
-/fill -32 70 802 -32 70 802 dirt
-/fill -32 70 803 -32 70 803 dirt
-/fill -32 70 804 -32 70 804 dirt
-/fill -32 70 805 -32 70 805 dirt
-/fill -32 70 806 -32 70 806 dirt
-/fill -32 70 807 -32 70 807 dirt
-/fill -32 70 808 -32 70 808 dirt
-/fill -32 70 809 -32 70 809 dirt
-/fill -32 70 810 -32 70 810 dirt
-/fill -32 70 811 -32 70 811 dirt
-/fill -32 70 812 -32 70 812 dirt
-/fill -33 70 800 -33 70 800 dirt
-/fill -33 70 801 -33 70 801 dirt
-/fill -33 70 802 -33 70 802 dirt
-/fill -33 70 803 -33 70 803 dirt
-/fill -33 70 804 -33 70 804 dirt
-/fill -33 70 805 -33 70 805 dirt
-/fill -33 70 806 -33 70 806 dirt
-/fill -33 70 807 -33 70 807 dirt
-/fill -33 70 808 -33 70 808 dirt
-/fill -33 70 809 -33 70 809 dirt
-/fill -33 70 810 -33 70 810 dirt
-/fill -33 70 811 -33 70 811 dirt
-/fill -33 70 812 -33 70 812 dirt
-/fill -34 70 800 -34 70 800 dirt
-/fill -34 70 801 -34 70 801 dirt
-/fill -34 70 802 -34 70 802 dirt
-/fill -34 70 803 -34 70 803 dirt
-/fill -34 70 804 -34 70 804 dirt
-/fill -34 70 805 -34 70 805 dirt
-/fill -34 70 806 -34 70 806 dirt
-/fill -34 70 807 -34 70 807 dirt
-/fill -34 70 808 -34 70 808 dirt
-/fill -34 70 809 -34 70 809 dirt
-/fill -34 70 810 -34 70 810 dirt
-/fill -34 70 811 -34 70 811 dirt
-/fill -34 70 812 -34 70 812 dirt
-/fill -35 70 800 -35 70 800 dirt
-/fill -35 70 801 -35 70 801 dirt
-/fill -35 70 802 -35 70 802 dirt
-/fill -35 70 803 -35 70 803 dirt
-/fill -35 70 804 -35 70 804 dirt
-/fill -35 70 805 -35 70 805 dirt
-/fill -35 70 806 -35 70 806 dirt
-/fill -35 70 807 -35 70 807 dirt
-/fill -35 70 808 -35 70 808 dirt
-/fill -35 70 809 -35 70 809 dirt
-/fill -35 70 810 -35 70 810 dirt
-/fill -35 70 811 -35 70 811 dirt
-/fill -35 70 812 -35 70 812 dirt
-/fill -36 70 800 -36 70 800 dirt
-/fill -36 70 801 -36 70 801 dirt
-/fill -36 70 802 -36 70 802 dirt
-/fill -36 70 803 -36 70 803 dirt
-/fill -36 70 804 -36 70 804 dirt
-/fill -36 70 805 -36 70 805 dirt
-/fill -36 70 806 -36 70 806 dirt
-/fill -36 70 807 -36 70 807 dirt
-/fill -36 70 808 -36 70 808 dirt
-/fill -36 70 809 -36 70 809 dirt
-/fill -36 70 810 -36 70 810 dirt
-/fill -36 70 811 -36 70 811 dirt
-/fill -36 70 812 -36 70 812 dirt
-/fill -37 70 800 -37 70 800 dirt
-/fill -37 70 801 -37 70 801 dirt
-/fill -37 70 802 -37 70 802 dirt
-/fill -37 70 803 -37 70 803 dirt
-/fill -37 70 804 -37 70 804 dirt
-/fill -37 70 805 -37 70 805 dirt
-/fill -37 70 806 -37 70 806 dirt
-/fill -37 70 807 -37 70 807 dirt
-/fill -37 70 808 -37 70 808 dirt
-/fill -37 70 809 -37 70 809 dirt
-/fill -37 70 810 -37 70 810 dirt
-/fill -37 70 811 -37 70 811 dirt
-/fill -37 70 812 -37 70 812 dirt
-/fill -38 70 800 -38 70 800 dirt
-/fill -38 70 801 -38 70 801 dirt
-/fill -38 70 802 -38 70 802 dirt
-/fill -38 70 803 -38 70 803 dirt
-/fill -38 70 804 -38 70 804 dirt
-/fill -38 70 805 -38 70 805 dirt
-/fill -38 70 806 -38 70 806 dirt
-/fill -38 70 807 -38 70 807 dirt
-/fill -38 70 808 -38 70 808 dirt
-/fill -38 70 809 -38 70 809 dirt
-/fill -38 70 810 -38 70 810 dirt
-/fill -38 70 811 -38 70 811 dirt
-/fill -38 70 812 -38 70 812 dirt
-/fill -39 70 800 -39 70 800 dirt
-/fill -39 70 801 -39 70 801 dirt
-/fill -39 70 802 -39 70 802 dirt
-/fill -39 70 803 -39 70 803 dirt
-/fill -39 70 804 -39 70 804 dirt
-/fill -39 70 805 -39 70 805 dirt
-/fill -39 70 806 -39 70 806 dirt
-/fill -39 70 807 -39 70 807 dirt
-/fill -39 70 808 -39 70 808 dirt
-/fill -39 70 809 -39 70 809 dirt
-/fill -39 70 810 -39 70 810 dirt
-/fill -39 70 811 -39 70 811 dirt
-/fill -39 70 812 -39 70 812 dirt
-/fill -40 70 800 -40 70 800 dirt
-/fill -40 70 801 -40 70 801 dirt
-/fill -40 70 802 -40 70 802 dirt
-/fill -40 70 803 -40 70 803 dirt
-/fill -40 70 804 -40 70 804 dirt
-/fill -40 70 805 -40 70 805 dirt
-/fill -40 70 806 -40 70 806 dirt
-/fill -40 70 807 -40 70 807 dirt
-/fill -40 70 808 -40 70 808 dirt
-/fill -40 70 809 -40 70 809 dirt
-/fill -40 70 810 -40 70 810 dirt
-/fill -40 70 811 -40 70 811 dirt
-/fill -40 70 812 -40 70 812 dirt
-/fill -41 70 800 -41 70 800 dirt
-/fill -41 70 801 -41 70 801 dirt
-/fill -41 70 802 -41 70 802 dirt
-/fill -41 70 803 -41 70 803 dirt
-/fill -41 70 804 -41 70 804 dirt
-/fill -41 70 805 -41 70 805 dirt
-/fill -41 70 806 -41 70 806 dirt
-/fill -41 70 807 -41 70 807 dirt
-/fill -41 70 808 -41 70 808 dirt
-/fill -41 70 809 -41 70 809 dirt
-/fill -41 70 810 -41 70 810 dirt
-/fill -41 70 811 -41 70 811 dirt
-/fill -41 70 812 -41 70 812 dirt
-/fill -42 70 800 -42 70 800 dirt
-/fill -42 70 801 -42 70 801 dirt
-/fill -42 70 802 -42 70 802 dirt
-/fill -42 70 803 -42 70 803 dirt
-/fill -42 70 804 -42 70 804 dirt
-/fill -42 70 805 -42 70 805 dirt
-/fill -42 70 806 -42 70 806 dirt
-/fill -42 70 807 -42 70 807 dirt
-/fill -42 70 808 -42 70 808 dirt
-/fill -42 70 809 -42 70 809 dirt
-/fill -42 70 810 -42 70 810 dirt
-/fill -42 70 811 -42 70 811 dirt
-/fill -42 70 812 -42 70 812 dirt
-/fill -43 70 800 -43 70 800 dirt
-/fill -43 70 801 -43 70 801 dirt
-/fill -43 70 802 -43 70 802 dirt
-/fill -43 70 803 -43 70 803 dirt
-/fill -43 70 804 -43 70 804 dirt
-/fill -43 70 805 -43 70 805 dirt
-/fill -43 70 806 -43 70 806 dirt
-/fill -43 70 807 -43 70 807 dirt
-/fill -43 70 808 -43 70 808 dirt
-/fill -43 70 809 -43 70 809 dirt
-/fill -43 70 810 -43 70 810 dirt
-/fill -43 70 811 -43 70 811 dirt
-/fill -43 70 812 -43 70 812 dirt
-/fill -44 70 800 -44 70 800 dirt
-/fill -44 70 801 -44 70 801 dirt
-/fill -44 70 802 -44 70 802 dirt
-/fill -44 70 803 -44 70 803 dirt
-/fill -44 70 804 -44 70 804 dirt
-/fill -44 70 805 -44 70 805 dirt
-/fill -44 70 806 -44 70 806 dirt
-/fill -44 70 807 -44 70 807 dirt
-/fill -44 70 808 -44 70 808 dirt
-/fill -44 70 809 -44 70 809 dirt
-/fill -44 70 810 -44 70 810 dirt
-/fill -44 70 811 -44 70 811 dirt
-/fill -44 70 812 -44 70 812 dirt
-/fill -45 70 800 -45 70 800 dirt
-/fill -45 70 801 -45 70 801 dirt
-/fill -45 70 802 -45 70 802 dirt
-/fill -45 70 803 -45 70 803 dirt
-/fill -45 70 804 -45 70 804 dirt
-/fill -45 70 805 -45 70 805 dirt
-/fill -45 70 806 -45 70 806 dirt
-/fill -45 70 807 -45 70 807 dirt
-/fill -45 70 808 -45 70 808 dirt
-/fill -45 70 809 -45 70 809 dirt
-/fill -45 70 810 -45 70 810 dirt
-/fill -45 70 811 -45 70 811 dirt
-/fill -45 70 812 -45 70 812 dirt
-/fill -46 70 800 -46 70 800 dirt
-/fill -46 70 801 -46 70 801 dirt
-/fill -46 70 802 -46 70 802 dirt
-/fill -46 70 803 -46 70 803 dirt
-/fill -46 70 804 -46 70 804 dirt
-/fill -46 70 805 -46 70 805 dirt
-/fill -46 70 806 -46 70 806 dirt
-/fill -46 70 807 -46 70 807 dirt
-/fill -46 70 808 -46 70 808 dirt
-/fill -46 70 809 -46 70 809 dirt
-/fill -46 70 810 -46 70 810 dirt
-/fill -46 70 811 -46 70 811 dirt
-/fill -46 70 812 -46 70 812 dirt
-/fill -47 70 800 -47 70 800 dirt
-/fill -47 70 801 -47 70 801 dirt
-/fill -47 70 802 -47 70 802 dirt
-/fill -47 70 803 -47 70 803 dirt
-/fill -47 70 804 -47 70 804 dirt
-/fill -47 70 805 -47 70 805 dirt
-/fill -47 70 806 -47 70 806 dirt
-/fill -47 70 807 -47 70 807 dirt
-/fill -47 70 808 -47 70 808 dirt
-/fill -47 70 809 -47 70 809 dirt
-/fill -47 70 810 -47 70 810 dirt
-/fill -47 70 811 -47 70 811 dirt
-/fill -47 70 812 -47 70 812 dirt
-/fill -48 70 800 -48 70 800 dirt
-/fill -48 70 801 -48 70 801 dirt
-/fill -48 70 802 -48 70 802 dirt
-/fill -48 70 803 -48 70 803 dirt
-/fill -48 70 804 -48 70 804 dirt
-/fill -48 70 805 -48 70 805 dirt
-/fill -48 70 806 -48 70 806 dirt
-/fill -48 70 807 -48 70 807 dirt
-/fill -48 70 808 -48 70 808 dirt
-/fill -48 70 809 -48 70 809 dirt
-/fill -48 70 810 -48 70 810 dirt
-/fill -48 70 811 -48 70 811 dirt
-/fill -48 70 812 -48 70 812 dirt
-/fill -49 70 800 -49 70 800 dirt
-/fill -49 70 801 -49 70 801 dirt
-/fill -49 70 802 -49 70 802 dirt
-/fill -49 70 803 -49 70 803 dirt
-/fill -49 70 804 -49 70 804 dirt
-/fill -49 70 805 -49 70 805 dirt
-/fill -49 70 806 -49 70 806 dirt
-/fill -49 70 807 -49 70 807 dirt
-/fill -49 70 808 -49 70 808 dirt
-/fill -49 70 809 -49 70 809 dirt
-/fill -49 70 810 -49 70 810 dirt
-/fill -49 70 811 -49 70 811 dirt
-/fill -49 70 812 -49 70 812 dirt
-/fill -50 70 800 -50 70 800 dirt
-/fill -50 70 801 -50 70 801 dirt
-/fill -50 70 802 -50 70 802 dirt
-/fill -50 70 803 -50 70 803 dirt
-/fill -50 70 804 -50 70 804 dirt
-/fill -50 70 805 -50 70 805 dirt
-/fill -50 70 806 -50 70 806 dirt
-/fill -50 70 807 -50 70 807 dirt
-/fill -50 70 808 -50 70 808 dirt
-/fill -50 70 809 -50 70 809 dirt
-/fill -50 70 810 -50 70 810 dirt
-/fill -50 70 811 -50 70 811 dirt
-/fill -50 70 812 -50 70 812 dirt
-/fill -51 70 800 -51 70 800 dirt
-/fill -51 70 801 -51 70 801 dirt
-/fill -51 70 802 -51 70 802 dirt
-/fill -51 70 803 -51 70 803 dirt
-/fill -51 70 804 -51 70 804 dirt
-/fill -51 70 805 -51 70 805 dirt
-/fill -51 70 806 -51 70 806 dirt
-/fill -51 70 807 -51 70 807 dirt
-/fill -51 70 808 -51 70 808 dirt
-/fill -51 70 809 -51 70 809 dirt
-/fill -51 70 810 -51 70 810 dirt
-/fill -51 70 811 -51 70 811 dirt
-/fill -51 70 812 -51 70 812 dirt
-/fill -52 70 800 -52 70 800 dirt
-/fill -52 70 801 -52 70 801 dirt
-/fill -52 70 802 -52 70 802 dirt
-/fill -52 70 803 -52 70 803 dirt
-/fill -52 70 804 -52 70 804 dirt
-/fill -52 70 805 -52 70 805 dirt
-/fill -52 70 806 -52 70 806 dirt
-/fill -52 70 807 -52 70 807 dirt
-/fill -52 70 808 -52 70 808 dirt
-/fill -52 70 809 -52 70 809 dirt
-/fill -52 70 810 -52 70 810 dirt
-/fill -53 70 800 -53 70 800 dirt
-/fill -53 70 801 -53 70 801 dirt
-/fill -53 70 802 -53 70 802 dirt
-/fill -53 70 803 -53 70 803 dirt
-/fill -53 70 804 -53 70 804 dirt
-/fill -53 70 805 -53 70 805 dirt
-/fill -53 70 806 -53 70 806 dirt
-/fill -53 70 807 -53 70 807 dirt
-/fill -53 70 808 -53 70 808 dirt
-/fill -53 70 809 -53 70 809 dirt
-/fill -53 70 810 -53 70 810 dirt
-/fill -54 70 800 -54 70 800 dirt
-/fill -54 70 801 -54 70 801 dirt
-/fill -54 70 802 -54 70 802 dirt
-/fill -54 70 803 -54 70 803 dirt
-/fill -54 70 804 -54 70 804 dirt
-/fill -54 70 805 -54 70 805 dirt
-/fill -54 70 806 -54 70 806 dirt
-/fill -54 70 807 -54 70 807 dirt
-/fill -54 70 808 -54 70 808 dirt
-/fill -54 70 809 -54 70 809 dirt
-/fill -54 70 810 -54 70 810 dirt
-/fill -55 70 800 -55 70 800 dirt
-/fill -55 70 801 -55 70 801 dirt
-/fill -55 70 802 -55 70 802 dirt
-/fill -55 70 803 -55 70 803 dirt
-/fill -55 70 804 -55 70 804 dirt
-/fill -55 70 805 -55 70 805 dirt
-/fill -55 70 806 -55 70 806 dirt
-/fill -55 70 807 -55 70 807 dirt
-/fill -55 70 808 -55 70 808 dirt
-/fill -55 70 809 -55 70 809 dirt
-/fill -55 70 810 -55 70 810 dirt
-/fill -56 70 800 -56 70 800 dirt
-/fill -56 70 801 -56 70 801 dirt
-/fill -56 70 802 -56 70 802 dirt
-/fill -56 70 803 -56 70 803 dirt
-/fill -56 70 804 -56 70 804 dirt
-/fill -56 70 805 -56 70 805 dirt
-/fill -56 70 806 -56 70 806 dirt
-/fill -56 70 807 -56 70 807 dirt
-/fill -56 70 808 -56 70 808 dirt
-/fill -56 70 809 -56 70 809 dirt
-/fill -56 70 810 -56 70 810 dirt
-/fill -57 70 800 -57 70 800 dirt
-/fill -57 70 801 -57 70 801 dirt
-/fill -57 70 802 -57 70 802 dirt
-/fill -57 70 803 -57 70 803 dirt
-/fill -57 70 804 -57 70 804 dirt
-/fill -57 70 805 -57 70 805 dirt
-/fill -57 70 806 -57 70 806 dirt
-/fill -57 70 807 -57 70 807 dirt
-/fill -57 70 808 -57 70 808 dirt
-/fill -57 70 809 -57 70 809 dirt
-/fill -57 70 810 -57 70 810 dirt
-/fill -58 70 800 -58 70 800 dirt
-/fill -58 70 801 -58 70 801 dirt
-/fill -58 70 802 -58 70 802 dirt
-/fill -58 70 803 -58 70 803 dirt
-/fill -58 70 804 -58 70 804 dirt
-/fill -58 70 805 -58 70 805 dirt
-/fill -58 70 806 -58 70 806 dirt
-/fill -58 70 807 -58 70 807 dirt
-/fill -58 70 808 -58 70 808 dirt
-/fill -58 70 809 -58 70 809 dirt
-/fill -58 70 810 -58 70 810 dirt
-/fill -59 70 800 -59 70 800 dirt
-/fill -59 70 801 -59 70 801 dirt
-/fill -59 70 802 -59 70 802 dirt
-/fill -59 70 803 -59 70 803 dirt
-/fill -59 70 804 -59 70 804 dirt
-/fill -59 70 805 -59 70 805 dirt
-/fill -59 70 806 -59 70 806 dirt
-/fill -59 70 807 -59 70 807 dirt
-/fill -59 70 808 -59 70 808 dirt
-/fill -59 70 809 -59 70 809 dirt
-/fill -59 70 810 -59 70 810 dirt
-/fill -60 70 800 -60 70 800 dirt
-/fill -60 70 801 -60 70 801 dirt
-/fill -60 70 802 -60 70 802 dirt
-/fill -60 70 803 -60 70 803 dirt
-/fill -60 70 804 -60 70 804 dirt
-/fill -60 70 805 -60 70 805 dirt
-/fill -60 70 806 -60 70 806 dirt
-/fill -60 70 807 -60 70 807 dirt
-/fill -60 70 808 -60 70 808 dirt
-/fill -60 70 809 -60 70 809 dirt
-/fill -60 70 810 -60 70 810 dirt
-/fill -61 70 800 -61 70 800 dirt
-/fill -61 70 801 -61 70 801 dirt
-/fill -61 70 802 -61 70 802 dirt
-/fill -61 70 803 -61 70 803 dirt
-/fill -61 70 804 -61 70 804 dirt
-/fill -61 70 805 -61 70 805 dirt
-/fill -61 70 806 -61 70 806 dirt
-/fill -61 70 807 -61 70 807 dirt
-/fill -61 70 808 -61 70 808 dirt
-/fill -61 70 809 -61 70 809 dirt
-/fill -61 70 810 -61 70 810 dirt
-/fill -62 70 800 -62 70 800 dirt
-/fill -62 70 801 -62 70 801 dirt
-/fill -62 70 802 -62 70 802 dirt
-/fill -62 70 803 -62 70 803 dirt
-/fill -62 70 804 -62 70 804 dirt
-/fill -62 70 805 -62 70 805 dirt
-/fill -62 70 806 -62 70 806 dirt
-/fill -62 70 807 -62 70 807 dirt
-/fill -62 70 808 -62 70 808 dirt
-/fill -62 70 809 -62 70 809 dirt
-/fill -62 70 810 -62 70 810 dirt
-/fill -63 70 800 -63 70 800 dirt
-/fill -63 70 801 -63 70 801 dirt
-/fill -63 70 802 -63 70 802 dirt
-/fill -63 70 803 -63 70 803 dirt
-/fill -63 70 804 -63 70 804 dirt
-/fill -63 70 805 -63 70 805 dirt
-/fill -63 70 806 -63 70 806 dirt
-/fill -63 70 807 -63 70 807 dirt
-/fill -63 70 808 -63 70 808 dirt
-/fill -63 70 809 -63 70 809 dirt
-/fill -63 70 810 -63 70 810 dirt
-/fill -64 70 800 -64 70 800 dirt
-/fill -64 70 801 -64 70 801 dirt
-/fill -64 70 802 -64 70 802 dirt
-/fill -64 70 803 -64 70 803 dirt
-/fill -64 70 804 -64 70 804 dirt
-/fill -64 70 805 -64 70 805 dirt
-/fill -64 70 806 -64 70 806 dirt
-/fill -64 70 807 -64 70 807 dirt
-/fill -64 70 808 -64 70 808 dirt
-/fill -64 70 809 -64 70 809 dirt
-/fill -64 70 810 -64 70 810 dirt
-/fill -65 70 800 -65 70 800 dirt
-/fill -65 70 801 -65 70 801 dirt
-/fill -65 70 802 -65 70 802 dirt
-/fill -65 70 803 -65 70 803 dirt
-/fill -65 70 804 -65 70 804 dirt
-/fill -65 70 805 -65 70 805 dirt
-/fill -65 70 806 -65 70 806 dirt
-/fill -65 70 807 -65 70 807 dirt
-/fill -65 70 808 -65 70 808 dirt
-/fill -65 70 809 -65 70 809 dirt
-/fill -65 70 810 -65 70 810 dirt
-/fill -66 70 800 -66 70 800 dirt
-/fill -66 70 801 -66 70 801 dirt
-/fill -66 70 802 -66 70 802 dirt
-/fill -66 70 803 -66 70 803 dirt
-/fill -66 70 804 -66 70 804 dirt
-/fill -66 70 805 -66 70 805 dirt
-/fill -66 70 806 -66 70 806 dirt
-/fill -66 70 807 -66 70 807 dirt
-/fill -66 70 808 -66 70 808 dirt
-/fill -66 70 809 -66 70 809 dirt
-/fill -66 70 810 -66 70 810 dirt
-/fill -67 70 800 -67 70 800 dirt
-/fill -67 70 801 -67 70 801 dirt
-/fill -67 70 802 -67 70 802 dirt
-/fill -67 70 803 -67 70 803 dirt
-/fill -67 70 804 -67 70 804 dirt
-/fill -67 70 805 -67 70 805 dirt
-/fill -67 70 806 -67 70 806 dirt
-/fill -67 70 807 -67 70 807 dirt
-/fill -67 70 808 -67 70 808 dirt
-/fill -67 70 809 -67 70 809 dirt
-/fill -67 70 810 -67 70 810 dirt
-/fill -68 70 800 -68 70 800 dirt
-/fill -68 70 801 -68 70 801 dirt
-/fill -68 70 802 -68 70 802 dirt
-/fill -68 70 803 -68 70 803 dirt
-/fill -68 70 804 -68 70 804 dirt
-/fill -68 70 805 -68 70 805 dirt
-/fill -68 70 806 -68 70 806 dirt
-/fill -68 70 807 -68 70 807 dirt
-/fill -68 70 808 -68 70 808 dirt
-/fill -68 70 809 -68 70 809 dirt
-/fill -68 70 810 -68 70 810 dirt
-/fill -69 70 800 -69 70 800 dirt
-/fill -69 70 801 -69 70 801 dirt
-/fill -69 70 802 -69 70 802 dirt
-/fill -69 70 803 -69 70 803 dirt
-/fill -69 70 804 -69 70 804 dirt
-/fill -69 70 805 -69 70 805 dirt
-/fill -69 70 806 -69 70 806 dirt
-/fill -69 70 807 -69 70 807 dirt
-/fill -69 70 808 -69 70 808 dirt
-/fill -69 70 809 -69 70 809 dirt
-/fill -69 70 810 -69 70 810 dirt
-/fill -70 70 800 -70 70 800 dirt
-/fill -70 70 801 -70 70 801 dirt
-/fill -70 70 802 -70 70 802 dirt
-/fill -70 70 803 -70 70 803 dirt
-/fill -70 70 804 -70 70 804 dirt
-/fill -70 70 805 -70 70 805 dirt
-/fill -70 70 806 -70 70 806 dirt
-/fill -70 70 807 -70 70 807 dirt
-/fill -70 70 808 -70 70 808 dirt
-/fill -70 70 809 -70 70 809 dirt
-/fill -70 70 810 -70 70 810 dirt
-/fill -71 70 800 -71 70 800 dirt
-/fill -71 70 801 -71 70 801 dirt
-/fill -71 70 802 -71 70 802 dirt
-/fill -71 70 803 -71 70 803 dirt
-/fill -71 70 804 -71 70 804 dirt
-/fill -71 70 805 -71 70 805 dirt
-/fill -71 70 806 -71 70 806 dirt
-/fill -71 70 807 -71 70 807 dirt
-/fill -71 70 808 -71 70 808 dirt
-/fill -71 70 809 -71 70 809 dirt
-/fill -71 70 810 -71 70 810 dirt
-/fill -72 70 800 -72 70 800 dirt
-/fill -72 70 801 -72 70 801 dirt
-/fill -72 70 802 -72 70 802 dirt
-/fill -72 70 803 -72 70 803 dirt
-/fill -72 70 804 -72 70 804 dirt
-/fill -72 70 805 -72 70 805 dirt
-/fill -72 70 806 -72 70 806 dirt
-/fill -72 70 807 -72 70 807 dirt
-/fill -72 70 808 -72 70 808 dirt
-/fill -72 70 809 -72 70 809 dirt
-/fill -72 70 810 -72 70 810 dirt
-/fill -73 70 800 -73 70 800 dirt
-/fill -73 70 801 -73 70 801 dirt
-/fill -73 70 802 -73 70 802 dirt
-/fill -73 70 803 -73 70 803 dirt
-/fill -73 70 804 -73 70 804 dirt
-/fill -73 70 805 -73 70 805 dirt
-/fill -73 70 806 -73 70 806 dirt
-/fill -73 70 807 -73 70 807 dirt
-/fill -73 70 808 -73 70 808 dirt
-/fill -73 70 809 -73 70 809 dirt
-/fill -73 70 810 -73 70 810 dirt
-/fill -74 70 800 -74 70 800 dirt
-/fill -74 70 801 -74 70 801 dirt
-/fill -74 70 802 -74 70 802 dirt
-/fill -74 70 803 -74 70 803 dirt
-/fill -74 70 804 -74 70 804 dirt
-/fill -74 70 805 -74 70 805 dirt
-/fill -74 70 806 -74 70 806 dirt
-/fill -74 70 807 -74 70 807 dirt
-/fill -74 70 808 -74 70 808 dirt
-/fill -74 70 809 -74 70 809 dirt
-/fill -74 70 810 -74 70 810 dirt
-/fill -75 70 800 -75 70 800 dirt
-/fill -75 70 801 -75 70 801 dirt
-/fill -75 70 802 -75 70 802 dirt
-/fill -75 70 803 -75 70 803 dirt
-/fill -75 70 804 -75 70 804 dirt
-/fill -75 70 805 -75 70 805 dirt
-/fill -75 70 806 -75 70 806 dirt
-/fill -75 70 807 -75 70 807 dirt
-/fill -75 70 808 -75 70 808 dirt
-/fill -75 70 809 -75 70 809 dirt
-/fill -75 70 810 -75 70 810 dirt
-/fill -76 70 800 -76 70 800 dirt
-/fill -76 70 801 -76 70 801 dirt
-/fill -76 70 802 -76 70 802 dirt
-/fill -76 70 803 -76 70 803 dirt
-/fill -76 70 804 -76 70 804 dirt
-/fill -76 70 805 -76 70 805 dirt
-/fill -76 70 806 -76 70 806 dirt
-/fill -76 70 807 -76 70 807 dirt
-/fill -76 70 808 -76 70 808 dirt
-/fill -76 70 809 -76 70 809 dirt
-/fill -76 70 810 -76 70 810 dirt
-/fill -77 70 800 -77 70 800 dirt
-/fill -77 70 801 -77 70 801 dirt
-/fill -77 70 802 -77 70 802 dirt
-/fill -77 70 803 -77 70 803 dirt
-/fill -77 70 804 -77 70 804 dirt
-/fill -77 70 805 -77 70 805 dirt
-/fill -77 70 806 -77 70 806 dirt
-/fill -77 70 807 -77 70 807 dirt
-/fill -77 70 808 -77 70 808 dirt
-/fill -77 70 809 -77 70 809 dirt
-/fill -77 70 810 -77 70 810 dirt
-/fill -78 70 800 -78 70 800 dirt
-/fill -78 70 801 -78 70 801 dirt
-/fill -78 70 802 -78 70 802 dirt
-/fill -78 70 803 -78 70 803 dirt
-/fill -78 70 804 -78 70 804 dirt
-/fill -78 70 805 -78 70 805 dirt
-/fill -78 70 806 -78 70 806 dirt
-/fill -78 70 807 -78 70 807 dirt
-/fill -78 70 808 -78 70 808 dirt
-/fill -78 70 809 -78 70 809 dirt
-/fill -78 70 810 -78 70 810 dirt
-/fill -79 70 800 -79 70 800 dirt
-/fill -79 70 801 -79 70 801 dirt
-/fill -79 70 802 -79 70 802 dirt
-/fill -79 70 803 -79 70 803 dirt
-/fill -79 70 804 -79 70 804 dirt
-/fill -79 70 805 -79 70 805 dirt
-/fill -79 70 806 -79 70 806 dirt
-/fill -79 70 807 -79 70 807 dirt
-/fill -79 70 808 -79 70 808 dirt
-/fill -79 70 809 -79 70 809 dirt
-/fill -79 70 810 -79 70 810 dirt
-/fill -80 70 800 -80 70 800 dirt
-/fill -80 70 801 -80 70 801 dirt
-/fill -80 70 802 -80 70 802 dirt
-/fill -80 70 803 -80 70 803 dirt
-/fill -80 70 804 -80 70 804 dirt
-/fill -80 70 805 -80 70 805 dirt
-/fill -80 70 806 -80 70 806 dirt
-/fill -80 70 807 -80 70 807 dirt
-/fill -80 70 808 -80 70 808 dirt
-/fill -80 70 809 -80 70 809 dirt
-/fill -80 70 810 -80 70 810 dirt
-/fill -81 70 800 -81 70 800 dirt
-/fill -81 70 801 -81 70 801 dirt
-/fill -81 70 802 -81 70 802 dirt
-/fill -81 70 803 -81 70 803 dirt
-/fill -81 70 804 -81 70 804 dirt
-/fill -81 70 805 -81 70 805 dirt
-/fill -81 70 806 -81 70 806 dirt
-/fill -81 70 807 -81 70 807 dirt
-/fill -81 70 808 -81 70 808 dirt
-/fill -81 70 809 -81 70 809 dirt
-/fill -81 70 810 -81 70 810 dirt
-/fill -82 70 800 -82 70 800 dirt
-/fill -82 70 801 -82 70 801 dirt
-/fill -82 70 802 -82 70 802 dirt
-/fill -82 70 803 -82 70 803 dirt
-/fill -82 70 804 -82 70 804 dirt
-/fill -82 70 805 -82 70 805 dirt
-/fill -82 70 806 -82 70 806 dirt
-/fill -82 70 807 -82 70 807 dirt
-/fill -82 70 808 -82 70 808 dirt
-/fill -82 70 809 -82 70 809 dirt
-/fill -82 70 810 -82 70 810 dirt
-/fill -83 70 800 -83 70 800 dirt
-/fill -83 70 801 -83 70 801 dirt
-/fill -83 70 802 -83 70 802 dirt
-/fill -83 70 803 -83 70 803 dirt
-/fill -83 70 804 -83 70 804 dirt
-/fill -83 70 805 -83 70 805 dirt
-/fill -83 70 806 -83 70 806 dirt
-/fill -83 70 807 -83 70 807 dirt
-/fill -83 70 808 -83 70 808 dirt
-/fill -83 70 809 -83 70 809 dirt
-/fill -83 70 810 -83 70 810 dirt
-/fill -84 70 800 -84 70 800 dirt
-/fill -84 70 801 -84 70 801 dirt
-/fill -84 70 802 -84 70 802 dirt
-/fill -84 70 803 -84 70 803 dirt
-/fill -84 70 804 -84 70 804 dirt
-/fill -84 70 805 -84 70 805 dirt
-/fill -84 70 806 -84 70 806 dirt
-/fill -84 70 807 -84 70 807 dirt
-/fill -84 70 808 -84 70 808 dirt
-/fill -84 70 809 -84 70 809 dirt
-/fill -84 70 810 -84 70 810 dirt
-/fill -85 70 800 -85 70 800 dirt
-/fill -85 70 801 -85 70 801 dirt
-/fill -85 70 802 -85 70 802 dirt
-/fill -85 70 803 -85 70 803 dirt
-/fill -85 70 804 -85 70 804 dirt
-/fill -85 70 805 -85 70 805 dirt
-/fill -85 70 806 -85 70 806 dirt
-/fill -85 70 807 -85 70 807 dirt
-/fill -85 70 808 -85 70 808 dirt
-/fill -85 70 809 -85 70 809 dirt
-/fill -85 70 810 -85 70 810 dirt
-/fill -86 70 800 -86 70 800 dirt
-/fill -86 70 801 -86 70 801 dirt
-/fill -86 70 802 -86 70 802 dirt
-/fill -86 70 803 -86 70 803 dirt
-/fill -86 70 804 -86 70 804 dirt
-/fill -86 70 805 -86 70 805 dirt
-/fill -86 70 806 -86 70 806 dirt
-/fill -86 70 807 -86 70 807 dirt
-/fill -86 70 808 -86 70 808 dirt
-/fill -86 70 809 -86 70 809 dirt
-/fill -86 70 810 -86 70 810 dirt
-/fill -87 70 800 -87 70 800 dirt
-/fill -87 70 801 -87 70 801 dirt
-/fill -87 70 802 -87 70 802 dirt
-/fill -87 70 803 -87 70 803 dirt
-/fill -87 70 804 -87 70 804 dirt
-/fill -87 70 805 -87 70 805 dirt
-/fill -87 70 806 -87 70 806 dirt
-/fill -87 70 807 -87 70 807 dirt
-/fill -87 70 808 -87 70 808 dirt
-/fill -87 70 809 -87 70 809 dirt
-/fill -87 70 810 -87 70 810 dirt
-/fill -88 70 800 -88 70 800 dirt
-/fill -88 70 801 -88 70 801 dirt
-/fill -88 70 802 -88 70 802 dirt
-/fill -88 70 803 -88 70 803 dirt
-/fill -88 70 804 -88 70 804 dirt
-/fill -88 70 805 -88 70 805 dirt
-/fill -88 70 806 -88 70 806 dirt
-/fill -88 70 807 -88 70 807 dirt
-/fill -88 70 808 -88 70 808 dirt
-/fill -88 70 809 -88 70 809 dirt
-/fill -88 70 810 -88 70 810 dirt
-/fill -89 70 800 -89 70 800 dirt
-/fill -89 70 801 -89 70 801 dirt
-/fill -89 70 802 -89 70 802 dirt
-/fill -89 70 803 -89 70 803 dirt
-/fill -89 70 804 -89 70 804 dirt
-/fill -89 70 805 -89 70 805 dirt
-/fill -89 70 806 -89 70 806 dirt
-/fill -89 70 807 -89 70 807 dirt
-/fill -89 70 808 -89 70 808 dirt
-/fill -89 70 809 -89 70 809 dirt
-/fill -89 70 810 -89 70 810 dirt
-/fill -90 70 800 -90 70 800 dirt
-/fill -90 70 801 -90 70 801 dirt
-/fill -90 70 802 -90 70 802 dirt
-/fill -90 70 803 -90 70 803 dirt
-/fill -90 70 804 -90 70 804 dirt
-/fill -90 70 805 -90 70 805 dirt
-/fill -90 70 806 -90 70 806 dirt
-/fill -90 70 807 -90 70 807 dirt
-/fill -90 70 808 -90 70 808 dirt
-/fill -90 70 809 -90 70 809 dirt
-/fill -90 70 810 -90 70 810 dirt
-/fill -91 70 800 -91 70 800 dirt
-/fill -91 70 801 -91 70 801 dirt
-/fill -91 70 802 -91 70 802 dirt
-/fill -91 70 803 -91 70 803 dirt
-/fill -91 70 804 -91 70 804 dirt
-/fill -91 70 805 -91 70 805 dirt
-/fill -91 70 806 -91 70 806 dirt
-/fill -91 70 807 -91 70 807 dirt
-/fill -91 70 808 -91 70 808 dirt
-/fill -91 70 809 -91 70 809 dirt
-/fill -91 70 810 -91 70 810 dirt
-/fill -92 70 800 -92 70 800 dirt
-/fill -92 70 801 -92 70 801 dirt
-/fill -92 70 802 -92 70 802 dirt
-/fill -92 70 803 -92 70 803 dirt
-/fill -92 70 804 -92 70 804 dirt
-/fill -92 70 805 -92 70 805 dirt
-/fill -92 70 806 -92 70 806 dirt
-/fill -92 70 807 -92 70 807 dirt
-/fill -92 70 808 -92 70 808 dirt
-/fill -92 70 809 -92 70 809 dirt
-/fill -92 70 810 -92 70 810 dirt
-/fill -93 70 800 -93 70 800 dirt
-/fill -93 70 801 -93 70 801 dirt
-/fill -93 70 802 -93 70 802 dirt
-/fill -93 70 803 -93 70 803 dirt
-/fill -93 70 804 -93 70 804 dirt
-/fill -93 70 805 -93 70 805 dirt
-/fill -93 70 806 -93 70 806 dirt
-/fill -93 70 807 -93 70 807 dirt
-/fill -93 70 808 -93 70 808 dirt
-/fill -93 70 809 -93 70 809 dirt
-/fill -93 70 810 -93 70 810 dirt
-/fill -94 70 800 -94 70 800 dirt
-/fill -94 70 801 -94 70 801 dirt
-/fill -94 70 802 -94 70 802 dirt
-/fill -94 70 803 -94 70 803 dirt
-/fill -94 70 804 -94 70 804 dirt
-/fill -94 70 805 -94 70 805 dirt
-/fill -94 70 806 -94 70 806 dirt
-/fill -94 70 807 -94 70 807 dirt
-/fill -94 70 808 -94 70 808 dirt
-/fill -94 70 809 -94 70 809 dirt
-/fill -94 70 810 -94 70 810 dirt
-/fill -95 70 800 -95 70 800 dirt
-/fill -95 70 801 -95 70 801 dirt
-/fill -95 70 802 -95 70 802 dirt
-/fill -95 70 803 -95 70 803 dirt
-/fill -95 70 804 -95 70 804 dirt
-/fill -95 70 805 -95 70 805 dirt
-/fill -95 70 806 -95 70 806 dirt
-/fill -95 70 807 -95 70 807 dirt
-/fill -95 70 808 -95 70 808 dirt
-/fill -95 70 809 -95 70 809 dirt
-/fill -95 70 810 -95 70 810 dirt
+#!/bin/sh
+./mcc.sh "/fill 40 70 800 40 70 800 dirt"
+./mcc.sh "/fill 40 70 801 40 70 801 dirt"
+./mcc.sh "/fill 40 70 802 40 70 802 dirt"
+./mcc.sh "/fill 40 70 845 40 70 845 dirt"
+./mcc.sh "/fill 40 70 846 40 70 846 dirt"
+./mcc.sh "/fill 40 70 847 40 70 847 dirt"
+./mcc.sh "/fill 40 70 848 40 70 848 dirt"
+./mcc.sh "/fill 41 70 800 41 70 800 dirt"
+./mcc.sh "/fill 41 70 801 41 70 801 dirt"
+./mcc.sh "/fill 41 70 802 41 70 802 dirt"
+./mcc.sh "/fill 41 70 845 41 70 845 dirt"
+./mcc.sh "/fill 41 70 846 41 70 846 dirt"
+./mcc.sh "/fill 41 70 847 41 70 847 dirt"
+./mcc.sh "/fill 41 70 848 41 70 848 dirt"
+./mcc.sh "/fill 42 70 800 42 70 800 dirt"
+./mcc.sh "/fill 42 70 801 42 70 801 dirt"
+./mcc.sh "/fill 42 70 802 42 70 802 dirt"
+./mcc.sh "/fill 42 70 845 42 70 845 dirt"
+./mcc.sh "/fill 42 70 846 42 70 846 dirt"
+./mcc.sh "/fill 42 70 847 42 70 847 dirt"
+./mcc.sh "/fill 42 70 848 42 70 848 dirt"
+./mcc.sh "/fill 43 70 800 43 70 800 dirt"
+./mcc.sh "/fill 43 70 801 43 70 801 dirt"
+./mcc.sh "/fill 43 70 802 43 70 802 dirt"
+./mcc.sh "/fill 43 70 845 43 70 845 dirt"
+./mcc.sh "/fill 43 70 846 43 70 846 dirt"
+./mcc.sh "/fill 43 70 847 43 70 847 dirt"
+./mcc.sh "/fill 43 70 848 43 70 848 dirt"
+./mcc.sh "/fill 44 70 800 44 70 800 dirt"
+./mcc.sh "/fill 44 70 801 44 70 801 dirt"
+./mcc.sh "/fill 44 70 802 44 70 802 dirt"
+./mcc.sh "/fill 44 70 845 44 70 845 dirt"
+./mcc.sh "/fill 44 70 846 44 70 846 dirt"
+./mcc.sh "/fill 44 70 847 44 70 847 dirt"
+./mcc.sh "/fill 44 70 848 44 70 848 dirt"
+./mcc.sh "/fill 45 70 800 45 70 800 dirt"
+./mcc.sh "/fill 45 70 801 45 70 801 dirt"
+./mcc.sh "/fill 45 70 802 45 70 802 dirt"
+./mcc.sh "/fill 45 70 845 45 70 845 dirt"
+./mcc.sh "/fill 45 70 846 45 70 846 dirt"
+./mcc.sh "/fill 45 70 847 45 70 847 dirt"
+./mcc.sh "/fill 45 70 848 45 70 848 dirt"
+./mcc.sh "/fill 46 70 800 46 70 800 dirt"
+./mcc.sh "/fill 46 70 801 46 70 801 dirt"
+./mcc.sh "/fill 46 70 802 46 70 802 dirt"
+./mcc.sh "/fill 46 70 845 46 70 845 dirt"
+./mcc.sh "/fill 46 70 846 46 70 846 dirt"
+./mcc.sh "/fill 46 70 847 46 70 847 dirt"
+./mcc.sh "/fill 46 70 848 46 70 848 dirt"
+./mcc.sh "/fill 47 70 800 47 70 800 dirt"
+./mcc.sh "/fill 47 70 801 47 70 801 dirt"
+./mcc.sh "/fill 47 70 802 47 70 802 dirt"
+./mcc.sh "/fill 47 70 845 47 70 845 dirt"
+./mcc.sh "/fill 47 70 846 47 70 846 dirt"
+./mcc.sh "/fill 47 70 847 47 70 847 dirt"
+./mcc.sh "/fill 47 70 848 47 70 848 dirt"
+./mcc.sh "/fill 48 70 800 48 70 800 dirt"
+./mcc.sh "/fill 48 70 801 48 70 801 dirt"
+./mcc.sh "/fill 48 70 802 48 70 802 dirt"
+./mcc.sh "/fill 48 70 845 48 70 845 dirt"
+./mcc.sh "/fill 48 70 846 48 70 846 dirt"
+./mcc.sh "/fill 48 70 847 48 70 847 dirt"
+./mcc.sh "/fill 48 70 848 48 70 848 dirt"
+./mcc.sh "/fill 49 70 800 49 70 800 dirt"
+./mcc.sh "/fill 49 70 801 49 70 801 dirt"
+./mcc.sh "/fill 49 70 802 49 70 802 dirt"
+./mcc.sh "/fill 49 70 845 49 70 845 dirt"
+./mcc.sh "/fill 49 70 846 49 70 846 dirt"
+./mcc.sh "/fill 49 70 847 49 70 847 dirt"
+./mcc.sh "/fill 49 70 848 49 70 848 dirt"
+./mcc.sh "/fill 50 70 800 50 70 800 dirt"
+./mcc.sh "/fill 50 70 801 50 70 801 dirt"
+./mcc.sh "/fill 50 70 802 50 70 802 dirt"
+./mcc.sh "/fill 50 70 845 50 70 845 dirt"
+./mcc.sh "/fill 50 70 846 50 70 846 dirt"
+./mcc.sh "/fill 50 70 847 50 70 847 dirt"
+./mcc.sh "/fill 50 70 848 50 70 848 dirt"
+./mcc.sh "/fill 51 70 800 51 70 800 dirt"
+./mcc.sh "/fill 51 70 801 51 70 801 dirt"
+./mcc.sh "/fill 51 70 802 51 70 802 dirt"
+./mcc.sh "/fill 51 70 845 51 70 845 dirt"
+./mcc.sh "/fill 51 70 846 51 70 846 dirt"
+./mcc.sh "/fill 51 70 847 51 70 847 dirt"
+./mcc.sh "/fill 51 70 848 51 70 848 dirt"
+./mcc.sh "/fill 52 70 800 52 70 800 dirt"
+./mcc.sh "/fill 52 70 801 52 70 801 dirt"
+./mcc.sh "/fill 52 70 802 52 70 802 dirt"
+./mcc.sh "/fill 52 70 845 52 70 845 dirt"
+./mcc.sh "/fill 52 70 846 52 70 846 dirt"
+./mcc.sh "/fill 52 70 847 52 70 847 dirt"
+./mcc.sh "/fill 52 70 848 52 70 848 dirt"
+./mcc.sh "/fill 53 70 800 53 70 800 dirt"
+./mcc.sh "/fill 53 70 801 53 70 801 dirt"
+./mcc.sh "/fill 53 70 802 53 70 802 dirt"
+./mcc.sh "/fill 53 70 845 53 70 845 dirt"
+./mcc.sh "/fill 53 70 846 53 70 846 dirt"
+./mcc.sh "/fill 53 70 847 53 70 847 dirt"
+./mcc.sh "/fill 53 70 848 53 70 848 dirt"
+./mcc.sh "/fill 54 70 800 54 70 800 dirt"
+./mcc.sh "/fill 54 70 801 54 70 801 dirt"
+./mcc.sh "/fill 54 70 802 54 70 802 dirt"
+./mcc.sh "/fill 54 70 845 54 70 845 dirt"
+./mcc.sh "/fill 54 70 846 54 70 846 dirt"
+./mcc.sh "/fill 54 70 847 54 70 847 dirt"
+./mcc.sh "/fill 54 70 848 54 70 848 dirt"
+./mcc.sh "/fill 55 70 800 55 70 800 dirt"
+./mcc.sh "/fill 55 70 801 55 70 801 dirt"
+./mcc.sh "/fill 55 70 802 55 70 802 dirt"
+./mcc.sh "/fill 55 70 845 55 70 845 dirt"
+./mcc.sh "/fill 55 70 846 55 70 846 dirt"
+./mcc.sh "/fill 55 70 847 55 70 847 dirt"
+./mcc.sh "/fill 55 70 848 55 70 848 dirt"
+./mcc.sh "/fill 56 70 800 56 70 800 dirt"
+./mcc.sh "/fill 56 70 801 56 70 801 dirt"
+./mcc.sh "/fill 56 70 802 56 70 802 dirt"
+./mcc.sh "/fill 56 70 845 56 70 845 dirt"
+./mcc.sh "/fill 56 70 846 56 70 846 dirt"
+./mcc.sh "/fill 56 70 847 56 70 847 dirt"
+./mcc.sh "/fill 56 70 848 56 70 848 dirt"
+./mcc.sh "/fill 57 70 800 57 70 800 dirt"
+./mcc.sh "/fill 57 70 801 57 70 801 dirt"
+./mcc.sh "/fill 57 70 802 57 70 802 dirt"
+./mcc.sh "/fill 57 70 845 57 70 845 dirt"
+./mcc.sh "/fill 57 70 846 57 70 846 dirt"
+./mcc.sh "/fill 57 70 847 57 70 847 dirt"
+./mcc.sh "/fill 57 70 848 57 70 848 dirt"
+./mcc.sh "/fill 58 70 800 58 70 800 dirt"
+./mcc.sh "/fill 58 70 801 58 70 801 dirt"
+./mcc.sh "/fill 58 70 802 58 70 802 dirt"
+./mcc.sh "/fill 58 70 845 58 70 845 dirt"
+./mcc.sh "/fill 58 70 846 58 70 846 dirt"
+./mcc.sh "/fill 58 70 847 58 70 847 dirt"
+./mcc.sh "/fill 58 70 848 58 70 848 dirt"
+./mcc.sh "/fill 59 70 800 59 70 800 dirt"
+./mcc.sh "/fill 59 70 801 59 70 801 dirt"
+./mcc.sh "/fill 59 70 802 59 70 802 dirt"
+./mcc.sh "/fill 59 70 845 59 70 845 dirt"
+./mcc.sh "/fill 59 70 846 59 70 846 dirt"
+./mcc.sh "/fill 59 70 847 59 70 847 dirt"
+./mcc.sh "/fill 59 70 848 59 70 848 dirt"
+./mcc.sh "/fill 60 70 800 60 70 800 dirt"
+./mcc.sh "/fill 60 70 801 60 70 801 dirt"
+./mcc.sh "/fill 60 70 802 60 70 802 dirt"
+./mcc.sh "/fill 60 70 845 60 70 845 dirt"
+./mcc.sh "/fill 60 70 846 60 70 846 dirt"
+./mcc.sh "/fill 60 70 847 60 70 847 dirt"
+./mcc.sh "/fill 60 70 848 60 70 848 dirt"
+./mcc.sh "/fill 61 70 800 61 70 800 dirt"
+./mcc.sh "/fill 61 70 801 61 70 801 dirt"
+./mcc.sh "/fill 61 70 802 61 70 802 dirt"
+./mcc.sh "/fill 61 70 845 61 70 845 dirt"
+./mcc.sh "/fill 61 70 846 61 70 846 dirt"
+./mcc.sh "/fill 61 70 847 61 70 847 dirt"
+./mcc.sh "/fill 61 70 848 61 70 848 dirt"
+./mcc.sh "/fill 62 70 800 62 70 800 dirt"
+./mcc.sh "/fill 62 70 801 62 70 801 dirt"
+./mcc.sh "/fill 62 70 802 62 70 802 dirt"
+./mcc.sh "/fill 62 70 845 62 70 845 dirt"
+./mcc.sh "/fill 62 70 846 62 70 846 dirt"
+./mcc.sh "/fill 62 70 847 62 70 847 dirt"
+./mcc.sh "/fill 62 70 848 62 70 848 dirt"
+./mcc.sh "/fill 63 70 800 63 70 800 dirt"
+./mcc.sh "/fill 63 70 801 63 70 801 dirt"
+./mcc.sh "/fill 63 70 802 63 70 802 dirt"
+./mcc.sh "/fill 63 70 845 63 70 845 dirt"
+./mcc.sh "/fill 63 70 846 63 70 846 dirt"
+./mcc.sh "/fill 63 70 847 63 70 847 dirt"
+./mcc.sh "/fill 63 70 848 63 70 848 dirt"
+./mcc.sh "/fill 64 70 800 64 70 800 dirt"
+./mcc.sh "/fill 64 70 801 64 70 801 dirt"
+./mcc.sh "/fill 64 70 802 64 70 802 dirt"
+./mcc.sh "/fill 64 70 845 64 70 845 dirt"
+./mcc.sh "/fill 64 70 846 64 70 846 dirt"
+./mcc.sh "/fill 64 70 847 64 70 847 dirt"
+./mcc.sh "/fill 64 70 848 64 70 848 dirt"
+./mcc.sh "/fill 65 70 800 65 70 800 dirt"
+./mcc.sh "/fill 65 70 801 65 70 801 dirt"
+./mcc.sh "/fill 65 70 802 65 70 802 dirt"
+./mcc.sh "/fill 65 70 845 65 70 845 dirt"
+./mcc.sh "/fill 65 70 846 65 70 846 dirt"
+./mcc.sh "/fill 65 70 847 65 70 847 dirt"
+./mcc.sh "/fill 65 70 848 65 70 848 dirt"
+./mcc.sh "/fill 66 70 800 66 70 800 dirt"
+./mcc.sh "/fill 66 70 801 66 70 801 dirt"
+./mcc.sh "/fill 66 70 802 66 70 802 dirt"
+./mcc.sh "/fill 66 70 845 66 70 845 dirt"
+./mcc.sh "/fill 66 70 846 66 70 846 dirt"
+./mcc.sh "/fill 66 70 847 66 70 847 dirt"
+./mcc.sh "/fill 66 70 848 66 70 848 dirt"
+./mcc.sh "/fill 67 70 800 67 70 800 dirt"
+./mcc.sh "/fill 67 70 801 67 70 801 dirt"
+./mcc.sh "/fill 67 70 802 67 70 802 dirt"
+./mcc.sh "/fill 67 70 845 67 70 845 dirt"
+./mcc.sh "/fill 67 70 846 67 70 846 dirt"
+./mcc.sh "/fill 67 70 847 67 70 847 dirt"
+./mcc.sh "/fill 67 70 848 67 70 848 dirt"
+./mcc.sh "/fill 68 70 800 68 70 800 dirt"
+./mcc.sh "/fill 68 70 801 68 70 801 dirt"
+./mcc.sh "/fill 68 70 802 68 70 802 dirt"
+./mcc.sh "/fill 68 70 845 68 70 845 dirt"
+./mcc.sh "/fill 68 70 846 68 70 846 dirt"
+./mcc.sh "/fill 68 70 847 68 70 847 dirt"
+./mcc.sh "/fill 68 70 848 68 70 848 dirt"
+./mcc.sh "/fill 69 70 800 69 70 800 dirt"
+./mcc.sh "/fill 69 70 801 69 70 801 dirt"
+./mcc.sh "/fill 69 70 802 69 70 802 dirt"
+./mcc.sh "/fill 69 70 845 69 70 845 dirt"
+./mcc.sh "/fill 69 70 846 69 70 846 dirt"
+./mcc.sh "/fill 69 70 847 69 70 847 dirt"
+./mcc.sh "/fill 69 70 848 69 70 848 dirt"
+./mcc.sh "/fill 70 70 800 70 70 800 dirt"
+./mcc.sh "/fill 70 70 801 70 70 801 dirt"
+./mcc.sh "/fill 70 70 802 70 70 802 dirt"
+./mcc.sh "/fill 70 70 845 70 70 845 dirt"
+./mcc.sh "/fill 70 70 846 70 70 846 dirt"
+./mcc.sh "/fill 70 70 847 70 70 847 dirt"
+./mcc.sh "/fill 70 70 848 70 70 848 dirt"
+./mcc.sh "/fill 71 70 800 71 70 800 dirt"
+./mcc.sh "/fill 71 70 801 71 70 801 dirt"
+./mcc.sh "/fill 71 70 802 71 70 802 dirt"
+./mcc.sh "/fill 81 70 800 81 70 800 dirt"
+./mcc.sh "/fill 81 70 801 81 70 801 dirt"
+./mcc.sh "/fill 81 70 802 81 70 802 dirt"
+./mcc.sh "/fill 81 70 803 81 70 803 dirt"
+./mcc.sh "/fill 81 70 804 81 70 804 dirt"
+./mcc.sh "/fill 81 70 805 81 70 805 dirt"
+./mcc.sh "/fill 81 70 806 81 70 806 dirt"
+./mcc.sh "/fill 81 70 807 81 70 807 dirt"
+./mcc.sh "/fill 81 70 808 81 70 808 dirt"
+./mcc.sh "/fill 81 70 809 81 70 809 dirt"
+./mcc.sh "/fill 81 70 810 81 70 810 dirt"
+./mcc.sh "/fill 81 70 811 81 70 811 dirt"
+./mcc.sh "/fill 81 70 812 81 70 812 dirt"
+./mcc.sh "/fill 82 70 800 82 70 800 dirt"
+./mcc.sh "/fill 82 70 801 82 70 801 dirt"
+./mcc.sh "/fill 82 70 802 82 70 802 dirt"
+./mcc.sh "/fill 82 70 803 82 70 803 dirt"
+./mcc.sh "/fill 82 70 804 82 70 804 dirt"
+./mcc.sh "/fill 82 70 805 82 70 805 dirt"
+./mcc.sh "/fill 82 70 806 82 70 806 dirt"
+./mcc.sh "/fill 82 70 807 82 70 807 dirt"
+./mcc.sh "/fill 82 70 808 82 70 808 dirt"
+./mcc.sh "/fill 82 70 809 82 70 809 dirt"
+./mcc.sh "/fill 82 70 810 82 70 810 dirt"
+./mcc.sh "/fill 82 70 811 82 70 811 dirt"
+./mcc.sh "/fill 82 70 812 82 70 812 dirt"
+./mcc.sh "/fill 83 70 800 83 70 800 dirt"
+./mcc.sh "/fill 83 70 801 83 70 801 dirt"
+./mcc.sh "/fill 83 70 802 83 70 802 dirt"
+./mcc.sh "/fill 83 70 803 83 70 803 dirt"
+./mcc.sh "/fill 83 70 804 83 70 804 dirt"
+./mcc.sh "/fill 83 70 805 83 70 805 dirt"
+./mcc.sh "/fill 83 70 806 83 70 806 dirt"
+./mcc.sh "/fill 83 70 807 83 70 807 dirt"
+./mcc.sh "/fill 83 70 808 83 70 808 dirt"
+./mcc.sh "/fill 83 70 809 83 70 809 dirt"
+./mcc.sh "/fill 83 70 810 83 70 810 dirt"
+./mcc.sh "/fill 83 70 811 83 70 811 dirt"
+./mcc.sh "/fill 83 70 812 83 70 812 dirt"
+./mcc.sh "/fill 84 70 800 84 70 800 dirt"
+./mcc.sh "/fill 84 70 801 84 70 801 dirt"
+./mcc.sh "/fill 84 70 802 84 70 802 dirt"
+./mcc.sh "/fill 84 70 803 84 70 803 dirt"
+./mcc.sh "/fill 84 70 804 84 70 804 dirt"
+./mcc.sh "/fill 84 70 805 84 70 805 dirt"
+./mcc.sh "/fill 84 70 806 84 70 806 dirt"
+./mcc.sh "/fill 84 70 807 84 70 807 dirt"
+./mcc.sh "/fill 84 70 808 84 70 808 dirt"
+./mcc.sh "/fill 84 70 809 84 70 809 dirt"
+./mcc.sh "/fill 84 70 810 84 70 810 dirt"
+./mcc.sh "/fill 84 70 811 84 70 811 dirt"
+./mcc.sh "/fill 84 70 812 84 70 812 dirt"
+./mcc.sh "/fill 85 70 800 85 70 800 dirt"
+./mcc.sh "/fill 85 70 801 85 70 801 dirt"
+./mcc.sh "/fill 85 70 802 85 70 802 dirt"
+./mcc.sh "/fill 85 70 803 85 70 803 dirt"
+./mcc.sh "/fill 85 70 804 85 70 804 dirt"
+./mcc.sh "/fill 85 70 805 85 70 805 dirt"
+./mcc.sh "/fill 85 70 806 85 70 806 dirt"
+./mcc.sh "/fill 85 70 807 85 70 807 dirt"
+./mcc.sh "/fill 85 70 808 85 70 808 dirt"
+./mcc.sh "/fill 85 70 809 85 70 809 dirt"
+./mcc.sh "/fill 85 70 810 85 70 810 dirt"
+./mcc.sh "/fill 85 70 811 85 70 811 dirt"
+./mcc.sh "/fill 85 70 812 85 70 812 dirt"
+./mcc.sh "/fill 86 70 800 86 70 800 dirt"
+./mcc.sh "/fill 86 70 801 86 70 801 dirt"
+./mcc.sh "/fill 86 70 802 86 70 802 dirt"
+./mcc.sh "/fill 86 70 803 86 70 803 dirt"
+./mcc.sh "/fill 86 70 804 86 70 804 dirt"
+./mcc.sh "/fill 86 70 805 86 70 805 dirt"
+./mcc.sh "/fill 86 70 806 86 70 806 dirt"
+./mcc.sh "/fill 86 70 807 86 70 807 dirt"
+./mcc.sh "/fill 86 70 808 86 70 808 dirt"
+./mcc.sh "/fill 86 70 809 86 70 809 dirt"
+./mcc.sh "/fill 86 70 810 86 70 810 dirt"
+./mcc.sh "/fill 86 70 811 86 70 811 dirt"
+./mcc.sh "/fill 86 70 812 86 70 812 dirt"
+./mcc.sh "/fill 87 70 800 87 70 800 dirt"
+./mcc.sh "/fill 87 70 801 87 70 801 dirt"
+./mcc.sh "/fill 87 70 802 87 70 802 dirt"
+./mcc.sh "/fill 87 70 803 87 70 803 dirt"
+./mcc.sh "/fill 87 70 804 87 70 804 dirt"
+./mcc.sh "/fill 87 70 805 87 70 805 dirt"
+./mcc.sh "/fill 87 70 806 87 70 806 dirt"
+./mcc.sh "/fill 87 70 807 87 70 807 dirt"
+./mcc.sh "/fill 87 70 808 87 70 808 dirt"
+./mcc.sh "/fill 87 70 809 87 70 809 dirt"
+./mcc.sh "/fill 87 70 810 87 70 810 dirt"
+./mcc.sh "/fill 87 70 811 87 70 811 dirt"
+./mcc.sh "/fill 87 70 812 87 70 812 dirt"
+./mcc.sh "/fill 88 70 800 88 70 800 dirt"
+./mcc.sh "/fill 88 70 801 88 70 801 dirt"
+./mcc.sh "/fill 88 70 802 88 70 802 dirt"
+./mcc.sh "/fill 88 70 803 88 70 803 dirt"
+./mcc.sh "/fill 88 70 804 88 70 804 dirt"
+./mcc.sh "/fill 88 70 805 88 70 805 dirt"
+./mcc.sh "/fill 88 70 806 88 70 806 dirt"
+./mcc.sh "/fill 88 70 807 88 70 807 dirt"
+./mcc.sh "/fill 88 70 808 88 70 808 dirt"
+./mcc.sh "/fill 88 70 809 88 70 809 dirt"
+./mcc.sh "/fill 88 70 810 88 70 810 dirt"
+./mcc.sh "/fill 88 70 811 88 70 811 dirt"
+./mcc.sh "/fill 88 70 812 88 70 812 dirt"
+./mcc.sh "/fill 89 70 800 89 70 800 dirt"
+./mcc.sh "/fill 89 70 801 89 70 801 dirt"
+./mcc.sh "/fill 89 70 802 89 70 802 dirt"
+./mcc.sh "/fill 89 70 803 89 70 803 dirt"
+./mcc.sh "/fill 89 70 804 89 70 804 dirt"
+./mcc.sh "/fill 89 70 805 89 70 805 dirt"
+./mcc.sh "/fill 89 70 806 89 70 806 dirt"
+./mcc.sh "/fill 89 70 807 89 70 807 dirt"
+./mcc.sh "/fill 89 70 808 89 70 808 dirt"
+./mcc.sh "/fill 89 70 809 89 70 809 dirt"
+./mcc.sh "/fill 89 70 810 89 70 810 dirt"
+./mcc.sh "/fill 89 70 811 89 70 811 dirt"
+./mcc.sh "/fill 89 70 812 89 70 812 dirt"
+./mcc.sh "/fill 90 70 800 90 70 800 dirt"
+./mcc.sh "/fill 90 70 801 90 70 801 dirt"
+./mcc.sh "/fill 90 70 802 90 70 802 dirt"
+./mcc.sh "/fill 90 70 803 90 70 803 dirt"
+./mcc.sh "/fill 90 70 804 90 70 804 dirt"
+./mcc.sh "/fill 90 70 805 90 70 805 dirt"
+./mcc.sh "/fill 90 70 806 90 70 806 dirt"
+./mcc.sh "/fill 90 70 807 90 70 807 dirt"
+./mcc.sh "/fill 90 70 808 90 70 808 dirt"
+./mcc.sh "/fill 90 70 809 90 70 809 dirt"
+./mcc.sh "/fill 90 70 810 90 70 810 dirt"
+./mcc.sh "/fill 90 70 811 90 70 811 dirt"
+./mcc.sh "/fill 90 70 812 90 70 812 dirt"
+./mcc.sh "/fill 91 70 800 91 70 800 dirt"
+./mcc.sh "/fill 91 70 801 91 70 801 dirt"
+./mcc.sh "/fill 91 70 802 91 70 802 dirt"
+./mcc.sh "/fill 91 70 803 91 70 803 dirt"
+./mcc.sh "/fill 91 70 804 91 70 804 dirt"
+./mcc.sh "/fill 91 70 805 91 70 805 dirt"
+./mcc.sh "/fill 91 70 806 91 70 806 dirt"
+./mcc.sh "/fill 91 70 807 91 70 807 dirt"
+./mcc.sh "/fill 91 70 808 91 70 808 dirt"
+./mcc.sh "/fill 91 70 809 91 70 809 dirt"
+./mcc.sh "/fill 91 70 810 91 70 810 dirt"
+./mcc.sh "/fill 91 70 811 91 70 811 dirt"
+./mcc.sh "/fill 91 70 812 91 70 812 dirt"
+./mcc.sh "/fill 92 70 800 92 70 800 dirt"
+./mcc.sh "/fill 92 70 801 92 70 801 dirt"
+./mcc.sh "/fill 92 70 802 92 70 802 dirt"
+./mcc.sh "/fill 92 70 803 92 70 803 dirt"
+./mcc.sh "/fill 92 70 804 92 70 804 dirt"
+./mcc.sh "/fill 92 70 805 92 70 805 dirt"
+./mcc.sh "/fill 92 70 806 92 70 806 dirt"
+./mcc.sh "/fill 92 70 807 92 70 807 dirt"
+./mcc.sh "/fill 92 70 808 92 70 808 dirt"
+./mcc.sh "/fill 92 70 809 92 70 809 dirt"
+./mcc.sh "/fill 92 70 810 92 70 810 dirt"
+./mcc.sh "/fill 92 70 811 92 70 811 dirt"
+./mcc.sh "/fill 92 70 812 92 70 812 dirt"
+./mcc.sh "/fill 93 70 800 93 70 800 dirt"
+./mcc.sh "/fill 93 70 801 93 70 801 dirt"
+./mcc.sh "/fill 93 70 802 93 70 802 dirt"
+./mcc.sh "/fill 93 70 803 93 70 803 dirt"
+./mcc.sh "/fill 93 70 804 93 70 804 dirt"
+./mcc.sh "/fill 93 70 805 93 70 805 dirt"
+./mcc.sh "/fill 93 70 806 93 70 806 dirt"
+./mcc.sh "/fill 93 70 807 93 70 807 dirt"
+./mcc.sh "/fill 93 70 808 93 70 808 dirt"
+./mcc.sh "/fill 93 70 809 93 70 809 dirt"
+./mcc.sh "/fill 93 70 810 93 70 810 dirt"
+./mcc.sh "/fill 93 70 811 93 70 811 dirt"
+./mcc.sh "/fill 93 70 812 93 70 812 dirt"
+./mcc.sh "/fill 94 70 800 94 70 800 dirt"
+./mcc.sh "/fill 94 70 801 94 70 801 dirt"
+./mcc.sh "/fill 94 70 802 94 70 802 dirt"
+./mcc.sh "/fill 94 70 803 94 70 803 dirt"
+./mcc.sh "/fill 94 70 804 94 70 804 dirt"
+./mcc.sh "/fill 94 70 805 94 70 805 dirt"
+./mcc.sh "/fill 94 70 806 94 70 806 dirt"
+./mcc.sh "/fill 94 70 807 94 70 807 dirt"
+./mcc.sh "/fill 94 70 808 94 70 808 dirt"
+./mcc.sh "/fill 94 70 809 94 70 809 dirt"
+./mcc.sh "/fill 94 70 810 94 70 810 dirt"
+./mcc.sh "/fill 94 70 811 94 70 811 dirt"
+./mcc.sh "/fill 94 70 812 94 70 812 dirt"
+./mcc.sh "/fill 95 70 800 95 70 800 dirt"
+./mcc.sh "/fill 95 70 801 95 70 801 dirt"
+./mcc.sh "/fill 95 70 802 95 70 802 dirt"
+./mcc.sh "/fill 95 70 803 95 70 803 dirt"
+./mcc.sh "/fill 95 70 804 95 70 804 dirt"
+./mcc.sh "/fill 95 70 805 95 70 805 dirt"
+./mcc.sh "/fill 95 70 806 95 70 806 dirt"
+./mcc.sh "/fill 95 70 807 95 70 807 dirt"
+./mcc.sh "/fill 95 70 808 95 70 808 dirt"
+./mcc.sh "/fill 95 70 809 95 70 809 dirt"
+./mcc.sh "/fill 95 70 810 95 70 810 dirt"
+./mcc.sh "/fill 95 70 811 95 70 811 dirt"
+./mcc.sh "/fill 95 70 812 95 70 812 dirt"
+./mcc.sh "/fill 96 70 800 96 70 800 dirt"
+./mcc.sh "/fill 96 70 801 96 70 801 dirt"
+./mcc.sh "/fill 96 70 802 96 70 802 dirt"
+./mcc.sh "/fill 96 70 803 96 70 803 dirt"
+./mcc.sh "/fill 96 70 804 96 70 804 dirt"
+./mcc.sh "/fill 96 70 805 96 70 805 dirt"
+./mcc.sh "/fill 96 70 806 96 70 806 dirt"
+./mcc.sh "/fill 96 70 807 96 70 807 dirt"
+./mcc.sh "/fill 96 70 808 96 70 808 dirt"
+./mcc.sh "/fill 96 70 809 96 70 809 dirt"
+./mcc.sh "/fill 96 70 810 96 70 810 dirt"
+./mcc.sh "/fill 96 70 811 96 70 811 dirt"
+./mcc.sh "/fill 96 70 812 96 70 812 dirt"
+./mcc.sh "/fill 97 70 800 97 70 800 dirt"
+./mcc.sh "/fill 97 70 801 97 70 801 dirt"
+./mcc.sh "/fill 97 70 802 97 70 802 dirt"
+./mcc.sh "/fill 97 70 803 97 70 803 dirt"
+./mcc.sh "/fill 97 70 804 97 70 804 dirt"
+./mcc.sh "/fill 97 70 805 97 70 805 dirt"
+./mcc.sh "/fill 97 70 806 97 70 806 dirt"
+./mcc.sh "/fill 97 70 807 97 70 807 dirt"
+./mcc.sh "/fill 97 70 808 97 70 808 dirt"
+./mcc.sh "/fill 97 70 809 97 70 809 dirt"
+./mcc.sh "/fill 97 70 810 97 70 810 dirt"
+./mcc.sh "/fill 97 70 811 97 70 811 dirt"
+./mcc.sh "/fill 97 70 812 97 70 812 dirt"
+./mcc.sh "/fill 98 70 800 98 70 800 dirt"
+./mcc.sh "/fill 98 70 801 98 70 801 dirt"
+./mcc.sh "/fill 98 70 802 98 70 802 dirt"
+./mcc.sh "/fill 98 70 803 98 70 803 dirt"
+./mcc.sh "/fill 98 70 804 98 70 804 dirt"
+./mcc.sh "/fill 98 70 805 98 70 805 dirt"
+./mcc.sh "/fill 98 70 806 98 70 806 dirt"
+./mcc.sh "/fill 98 70 807 98 70 807 dirt"
+./mcc.sh "/fill 98 70 808 98 70 808 dirt"
+./mcc.sh "/fill 98 70 809 98 70 809 dirt"
+./mcc.sh "/fill 98 70 810 98 70 810 dirt"
+./mcc.sh "/fill 98 70 811 98 70 811 dirt"
+./mcc.sh "/fill 98 70 812 98 70 812 dirt"
+./mcc.sh "/fill 99 70 800 99 70 800 dirt"
+./mcc.sh "/fill 99 70 801 99 70 801 dirt"
+./mcc.sh "/fill 99 70 802 99 70 802 dirt"
+./mcc.sh "/fill 99 70 803 99 70 803 dirt"
+./mcc.sh "/fill 99 70 804 99 70 804 dirt"
+./mcc.sh "/fill 99 70 805 99 70 805 dirt"
+./mcc.sh "/fill 99 70 806 99 70 806 dirt"
+./mcc.sh "/fill 99 70 807 99 70 807 dirt"
+./mcc.sh "/fill 99 70 808 99 70 808 dirt"
+./mcc.sh "/fill 99 70 809 99 70 809 dirt"
+./mcc.sh "/fill 99 70 810 99 70 810 dirt"
+./mcc.sh "/fill 99 70 811 99 70 811 dirt"
+./mcc.sh "/fill 99 70 812 99 70 812 dirt"
+./mcc.sh "/fill 100 70 800 100 70 800 dirt"
+./mcc.sh "/fill 100 70 801 100 70 801 dirt"
+./mcc.sh "/fill 100 70 802 100 70 802 dirt"
+./mcc.sh "/fill 100 70 803 100 70 803 dirt"
+./mcc.sh "/fill 100 70 804 100 70 804 dirt"
+./mcc.sh "/fill 100 70 805 100 70 805 dirt"
+./mcc.sh "/fill 100 70 806 100 70 806 dirt"
+./mcc.sh "/fill 100 70 807 100 70 807 dirt"
+./mcc.sh "/fill 100 70 808 100 70 808 dirt"
+./mcc.sh "/fill 100 70 809 100 70 809 dirt"
+./mcc.sh "/fill 100 70 810 100 70 810 dirt"
+./mcc.sh "/fill 100 70 811 100 70 811 dirt"
+./mcc.sh "/fill 100 70 812 100 70 812 dirt"
+./mcc.sh "/fill 101 70 800 101 70 800 dirt"
+./mcc.sh "/fill 101 70 801 101 70 801 dirt"
+./mcc.sh "/fill 101 70 802 101 70 802 dirt"
+./mcc.sh "/fill 101 70 803 101 70 803 dirt"
+./mcc.sh "/fill 101 70 804 101 70 804 dirt"
+./mcc.sh "/fill 101 70 805 101 70 805 dirt"
+./mcc.sh "/fill 101 70 806 101 70 806 dirt"
+./mcc.sh "/fill 101 70 807 101 70 807 dirt"
+./mcc.sh "/fill 101 70 808 101 70 808 dirt"
+./mcc.sh "/fill 101 70 809 101 70 809 dirt"
+./mcc.sh "/fill 101 70 810 101 70 810 dirt"
+./mcc.sh "/fill 101 70 811 101 70 811 dirt"
+./mcc.sh "/fill 101 70 812 101 70 812 dirt"
+./mcc.sh "/fill 102 70 800 102 70 800 dirt"
+./mcc.sh "/fill 102 70 801 102 70 801 dirt"
+./mcc.sh "/fill 102 70 802 102 70 802 dirt"
+./mcc.sh "/fill 102 70 803 102 70 803 dirt"
+./mcc.sh "/fill 102 70 804 102 70 804 dirt"
+./mcc.sh "/fill 102 70 805 102 70 805 dirt"
+./mcc.sh "/fill 102 70 806 102 70 806 dirt"
+./mcc.sh "/fill 102 70 807 102 70 807 dirt"
+./mcc.sh "/fill 102 70 808 102 70 808 dirt"
+./mcc.sh "/fill 102 70 809 102 70 809 dirt"
+./mcc.sh "/fill 102 70 810 102 70 810 dirt"
+./mcc.sh "/fill 102 70 811 102 70 811 dirt"
+./mcc.sh "/fill 102 70 812 102 70 812 dirt"
+./mcc.sh "/fill 103 70 800 103 70 800 dirt"
+./mcc.sh "/fill 103 70 801 103 70 801 dirt"
+./mcc.sh "/fill 103 70 802 103 70 802 dirt"
+./mcc.sh "/fill 103 70 803 103 70 803 dirt"
+./mcc.sh "/fill 103 70 804 103 70 804 dirt"
+./mcc.sh "/fill 103 70 805 103 70 805 dirt"
+./mcc.sh "/fill 103 70 806 103 70 806 dirt"
+./mcc.sh "/fill 103 70 807 103 70 807 dirt"
+./mcc.sh "/fill 103 70 808 103 70 808 dirt"
+./mcc.sh "/fill 103 70 809 103 70 809 dirt"
+./mcc.sh "/fill 103 70 810 103 70 810 dirt"
+./mcc.sh "/fill 103 70 811 103 70 811 dirt"
+./mcc.sh "/fill 103 70 812 103 70 812 dirt"
+./mcc.sh "/fill 104 70 800 104 70 800 dirt"
+./mcc.sh "/fill 104 70 801 104 70 801 dirt"
+./mcc.sh "/fill 104 70 802 104 70 802 dirt"
+./mcc.sh "/fill 104 70 803 104 70 803 dirt"
+./mcc.sh "/fill 104 70 804 104 70 804 dirt"
+./mcc.sh "/fill 104 70 805 104 70 805 dirt"
+./mcc.sh "/fill 104 70 806 104 70 806 dirt"
+./mcc.sh "/fill 104 70 807 104 70 807 dirt"
+./mcc.sh "/fill 104 70 808 104 70 808 dirt"
+./mcc.sh "/fill 104 70 809 104 70 809 dirt"
+./mcc.sh "/fill 104 70 810 104 70 810 dirt"
+./mcc.sh "/fill 104 70 811 104 70 811 dirt"
+./mcc.sh "/fill 104 70 812 104 70 812 dirt"
+./mcc.sh "/fill 105 70 800 105 70 800 dirt"
+./mcc.sh "/fill 105 70 801 105 70 801 dirt"
+./mcc.sh "/fill 105 70 802 105 70 802 dirt"
+./mcc.sh "/fill 105 70 803 105 70 803 dirt"
+./mcc.sh "/fill 105 70 804 105 70 804 dirt"
+./mcc.sh "/fill 105 70 805 105 70 805 dirt"
+./mcc.sh "/fill 105 70 806 105 70 806 dirt"
+./mcc.sh "/fill 105 70 807 105 70 807 dirt"
+./mcc.sh "/fill 105 70 808 105 70 808 dirt"
+./mcc.sh "/fill 105 70 809 105 70 809 dirt"
+./mcc.sh "/fill 105 70 810 105 70 810 dirt"
+./mcc.sh "/fill 105 70 811 105 70 811 dirt"
+./mcc.sh "/fill 105 70 812 105 70 812 dirt"
+./mcc.sh "/fill 106 70 800 106 70 800 dirt"
+./mcc.sh "/fill 106 70 801 106 70 801 dirt"
+./mcc.sh "/fill 106 70 802 106 70 802 dirt"
+./mcc.sh "/fill 106 70 803 106 70 803 dirt"
+./mcc.sh "/fill 106 70 804 106 70 804 dirt"
+./mcc.sh "/fill 106 70 805 106 70 805 dirt"
+./mcc.sh "/fill 106 70 806 106 70 806 dirt"
+./mcc.sh "/fill 106 70 807 106 70 807 dirt"
+./mcc.sh "/fill 106 70 808 106 70 808 dirt"
+./mcc.sh "/fill 106 70 809 106 70 809 dirt"
+./mcc.sh "/fill 106 70 810 106 70 810 dirt"
+./mcc.sh "/fill 106 70 811 106 70 811 dirt"
+./mcc.sh "/fill 106 70 812 106 70 812 dirt"
+./mcc.sh "/fill 107 70 800 107 70 800 dirt"
+./mcc.sh "/fill 107 70 801 107 70 801 dirt"
+./mcc.sh "/fill 107 70 802 107 70 802 dirt"
+./mcc.sh "/fill 107 70 803 107 70 803 dirt"
+./mcc.sh "/fill 107 70 804 107 70 804 dirt"
+./mcc.sh "/fill 107 70 805 107 70 805 dirt"
+./mcc.sh "/fill 107 70 806 107 70 806 dirt"
+./mcc.sh "/fill 107 70 807 107 70 807 dirt"
+./mcc.sh "/fill 107 70 808 107 70 808 dirt"
+./mcc.sh "/fill 107 70 809 107 70 809 dirt"
+./mcc.sh "/fill 107 70 810 107 70 810 dirt"
+./mcc.sh "/fill 107 70 811 107 70 811 dirt"
+./mcc.sh "/fill 107 70 812 107 70 812 dirt"
+./mcc.sh "/fill 108 70 800 108 70 800 dirt"
+./mcc.sh "/fill 108 70 801 108 70 801 dirt"
+./mcc.sh "/fill 108 70 802 108 70 802 dirt"
+./mcc.sh "/fill 108 70 803 108 70 803 dirt"
+./mcc.sh "/fill 108 70 804 108 70 804 dirt"
+./mcc.sh "/fill 108 70 805 108 70 805 dirt"
+./mcc.sh "/fill 108 70 806 108 70 806 dirt"
+./mcc.sh "/fill 108 70 807 108 70 807 dirt"
+./mcc.sh "/fill 108 70 808 108 70 808 dirt"
+./mcc.sh "/fill 108 70 809 108 70 809 dirt"
+./mcc.sh "/fill 108 70 810 108 70 810 dirt"
+./mcc.sh "/fill 108 70 811 108 70 811 dirt"
+./mcc.sh "/fill 108 70 812 108 70 812 dirt"
+./mcc.sh "/fill 109 70 800 109 70 800 dirt"
+./mcc.sh "/fill 109 70 801 109 70 801 dirt"
+./mcc.sh "/fill 109 70 802 109 70 802 dirt"
+./mcc.sh "/fill 109 70 803 109 70 803 dirt"
+./mcc.sh "/fill 109 70 804 109 70 804 dirt"
+./mcc.sh "/fill 109 70 805 109 70 805 dirt"
+./mcc.sh "/fill 109 70 806 109 70 806 dirt"
+./mcc.sh "/fill 109 70 807 109 70 807 dirt"
+./mcc.sh "/fill 109 70 808 109 70 808 dirt"
+./mcc.sh "/fill 109 70 809 109 70 809 dirt"
+./mcc.sh "/fill 109 70 810 109 70 810 dirt"
+./mcc.sh "/fill 109 70 811 109 70 811 dirt"
+./mcc.sh "/fill 109 70 812 109 70 812 dirt"
+./mcc.sh "/fill 110 70 800 110 70 800 dirt"
+./mcc.sh "/fill 110 70 801 110 70 801 dirt"
+./mcc.sh "/fill 110 70 802 110 70 802 dirt"
+./mcc.sh "/fill 110 70 803 110 70 803 dirt"
+./mcc.sh "/fill 110 70 804 110 70 804 dirt"
+./mcc.sh "/fill 110 70 805 110 70 805 dirt"
+./mcc.sh "/fill 110 70 806 110 70 806 dirt"
+./mcc.sh "/fill 110 70 807 110 70 807 dirt"
+./mcc.sh "/fill 110 70 808 110 70 808 dirt"
+./mcc.sh "/fill 110 70 809 110 70 809 dirt"
+./mcc.sh "/fill 110 70 810 110 70 810 dirt"
+./mcc.sh "/fill 110 70 811 110 70 811 dirt"
+./mcc.sh "/fill 110 70 812 110 70 812 dirt"
+./mcc.sh "/fill 111 70 800 111 70 800 dirt"
+./mcc.sh "/fill 111 70 801 111 70 801 dirt"
+./mcc.sh "/fill 111 70 802 111 70 802 dirt"
+./mcc.sh "/fill 111 70 803 111 70 803 dirt"
+./mcc.sh "/fill 111 70 804 111 70 804 dirt"
+./mcc.sh "/fill 111 70 805 111 70 805 dirt"
+./mcc.sh "/fill 111 70 806 111 70 806 dirt"
+./mcc.sh "/fill 111 70 807 111 70 807 dirt"
+./mcc.sh "/fill 111 70 808 111 70 808 dirt"
+./mcc.sh "/fill 111 70 809 111 70 809 dirt"
+./mcc.sh "/fill 111 70 810 111 70 810 dirt"
+./mcc.sh "/fill 111 70 811 111 70 811 dirt"
+./mcc.sh "/fill 111 70 812 111 70 812 dirt"
+./mcc.sh "/fill 112 70 800 112 70 800 dirt"
+./mcc.sh "/fill 112 70 801 112 70 801 dirt"
+./mcc.sh "/fill 112 70 802 112 70 802 dirt"
+./mcc.sh "/fill 112 70 803 112 70 803 dirt"
+./mcc.sh "/fill 112 70 804 112 70 804 dirt"
+./mcc.sh "/fill 112 70 805 112 70 805 dirt"
+./mcc.sh "/fill 112 70 806 112 70 806 dirt"
+./mcc.sh "/fill 112 70 807 112 70 807 dirt"
+./mcc.sh "/fill 112 70 808 112 70 808 dirt"
+./mcc.sh "/fill 112 70 809 112 70 809 dirt"
+./mcc.sh "/fill 112 70 810 112 70 810 dirt"
+./mcc.sh "/fill 112 70 811 112 70 811 dirt"
+./mcc.sh "/fill 112 70 812 112 70 812 dirt"
+./mcc.sh "/fill 113 70 800 113 70 800 dirt"
+./mcc.sh "/fill 113 70 801 113 70 801 dirt"
+./mcc.sh "/fill 113 70 802 113 70 802 dirt"
+./mcc.sh "/fill 113 70 803 113 70 803 dirt"
+./mcc.sh "/fill 113 70 804 113 70 804 dirt"
+./mcc.sh "/fill 113 70 805 113 70 805 dirt"
+./mcc.sh "/fill 113 70 806 113 70 806 dirt"
+./mcc.sh "/fill 113 70 807 113 70 807 dirt"
+./mcc.sh "/fill 113 70 808 113 70 808 dirt"
+./mcc.sh "/fill 113 70 809 113 70 809 dirt"
+./mcc.sh "/fill 113 70 810 113 70 810 dirt"
+./mcc.sh "/fill 113 70 811 113 70 811 dirt"
+./mcc.sh "/fill 113 70 812 113 70 812 dirt"
+./mcc.sh "/fill 114 70 800 114 70 800 dirt"
+./mcc.sh "/fill 114 70 801 114 70 801 dirt"
+./mcc.sh "/fill 114 70 802 114 70 802 dirt"
+./mcc.sh "/fill 114 70 803 114 70 803 dirt"
+./mcc.sh "/fill 114 70 804 114 70 804 dirt"
+./mcc.sh "/fill 114 70 805 114 70 805 dirt"
+./mcc.sh "/fill 114 70 806 114 70 806 dirt"
+./mcc.sh "/fill 114 70 807 114 70 807 dirt"
+./mcc.sh "/fill 114 70 808 114 70 808 dirt"
+./mcc.sh "/fill 114 70 809 114 70 809 dirt"
+./mcc.sh "/fill 114 70 810 114 70 810 dirt"
+./mcc.sh "/fill 114 70 811 114 70 811 dirt"
+./mcc.sh "/fill 114 70 812 114 70 812 dirt"
+./mcc.sh "/fill 115 70 800 115 70 800 dirt"
+./mcc.sh "/fill 115 70 801 115 70 801 dirt"
+./mcc.sh "/fill 115 70 802 115 70 802 dirt"
+./mcc.sh "/fill 115 70 803 115 70 803 dirt"
+./mcc.sh "/fill 115 70 804 115 70 804 dirt"
+./mcc.sh "/fill 115 70 805 115 70 805 dirt"
+./mcc.sh "/fill 115 70 806 115 70 806 dirt"
+./mcc.sh "/fill 115 70 807 115 70 807 dirt"
+./mcc.sh "/fill 115 70 808 115 70 808 dirt"
+./mcc.sh "/fill 115 70 809 115 70 809 dirt"
+./mcc.sh "/fill 115 70 810 115 70 810 dirt"
+./mcc.sh "/fill 115 70 811 115 70 811 dirt"
+./mcc.sh "/fill 115 70 812 115 70 812 dirt"
+./mcc.sh "/fill 116 70 800 116 70 800 dirt"
+./mcc.sh "/fill 116 70 801 116 70 801 dirt"
+./mcc.sh "/fill 116 70 802 116 70 802 dirt"
+./mcc.sh "/fill 116 70 803 116 70 803 dirt"
+./mcc.sh "/fill 116 70 804 116 70 804 dirt"
+./mcc.sh "/fill 116 70 805 116 70 805 dirt"
+./mcc.sh "/fill 116 70 806 116 70 806 dirt"
+./mcc.sh "/fill 116 70 807 116 70 807 dirt"
+./mcc.sh "/fill 116 70 808 116 70 808 dirt"
+./mcc.sh "/fill 116 70 809 116 70 809 dirt"
+./mcc.sh "/fill 116 70 810 116 70 810 dirt"
+./mcc.sh "/fill 116 70 811 116 70 811 dirt"
+./mcc.sh "/fill 116 70 812 116 70 812 dirt"
+./mcc.sh "/fill 117 70 800 117 70 800 dirt"
+./mcc.sh "/fill 117 70 801 117 70 801 dirt"
+./mcc.sh "/fill 117 70 802 117 70 802 dirt"
+./mcc.sh "/fill 117 70 803 117 70 803 dirt"
+./mcc.sh "/fill 117 70 804 117 70 804 dirt"
+./mcc.sh "/fill 117 70 805 117 70 805 dirt"
+./mcc.sh "/fill 117 70 806 117 70 806 dirt"
+./mcc.sh "/fill 117 70 807 117 70 807 dirt"
+./mcc.sh "/fill 117 70 808 117 70 808 dirt"
+./mcc.sh "/fill 117 70 809 117 70 809 dirt"
+./mcc.sh "/fill 117 70 810 117 70 810 dirt"
+./mcc.sh "/fill 117 70 811 117 70 811 dirt"
+./mcc.sh "/fill 117 70 812 117 70 812 dirt"
+./mcc.sh "/fill 118 70 800 118 70 800 dirt"
+./mcc.sh "/fill 118 70 801 118 70 801 dirt"
+./mcc.sh "/fill 118 70 802 118 70 802 dirt"
+./mcc.sh "/fill 118 70 803 118 70 803 dirt"
+./mcc.sh "/fill 118 70 804 118 70 804 dirt"
+./mcc.sh "/fill 118 70 805 118 70 805 dirt"
+./mcc.sh "/fill 118 70 806 118 70 806 dirt"
+./mcc.sh "/fill 118 70 807 118 70 807 dirt"
+./mcc.sh "/fill 118 70 808 118 70 808 dirt"
+./mcc.sh "/fill 118 70 809 118 70 809 dirt"
+./mcc.sh "/fill 118 70 810 118 70 810 dirt"
+./mcc.sh "/fill 118 70 811 118 70 811 dirt"
+./mcc.sh "/fill 118 70 812 118 70 812 dirt"
+./mcc.sh "/fill 119 70 800 119 70 800 dirt"
+./mcc.sh "/fill 119 70 801 119 70 801 dirt"
+./mcc.sh "/fill 119 70 802 119 70 802 dirt"
+./mcc.sh "/fill 119 70 803 119 70 803 dirt"
+./mcc.sh "/fill 119 70 804 119 70 804 dirt"
+./mcc.sh "/fill 119 70 805 119 70 805 dirt"
+./mcc.sh "/fill 119 70 806 119 70 806 dirt"
+./mcc.sh "/fill 119 70 807 119 70 807 dirt"
+./mcc.sh "/fill 119 70 808 119 70 808 dirt"
+./mcc.sh "/fill 119 70 809 119 70 809 dirt"
+./mcc.sh "/fill 119 70 810 119 70 810 dirt"
+./mcc.sh "/fill 119 70 811 119 70 811 dirt"
+./mcc.sh "/fill 119 70 812 119 70 812 dirt"
+./mcc.sh "/fill 120 70 800 120 70 800 dirt"
+./mcc.sh "/fill 120 70 801 120 70 801 dirt"
+./mcc.sh "/fill 120 70 802 120 70 802 dirt"
+./mcc.sh "/fill 120 70 803 120 70 803 dirt"
+./mcc.sh "/fill 120 70 804 120 70 804 dirt"
+./mcc.sh "/fill 120 70 805 120 70 805 dirt"
+./mcc.sh "/fill 120 70 806 120 70 806 dirt"
+./mcc.sh "/fill 120 70 807 120 70 807 dirt"
+./mcc.sh "/fill 120 70 808 120 70 808 dirt"
+./mcc.sh "/fill 120 70 809 120 70 809 dirt"
+./mcc.sh "/fill 120 70 810 120 70 810 dirt"
+./mcc.sh "/fill 120 70 811 120 70 811 dirt"
+./mcc.sh "/fill 120 70 812 120 70 812 dirt"
+./mcc.sh "/fill 121 70 800 121 70 800 dirt"
+./mcc.sh "/fill 121 70 801 121 70 801 dirt"
+./mcc.sh "/fill 121 70 802 121 70 802 dirt"
+./mcc.sh "/fill 121 70 803 121 70 803 dirt"
+./mcc.sh "/fill 121 70 804 121 70 804 dirt"
+./mcc.sh "/fill 121 70 805 121 70 805 dirt"
+./mcc.sh "/fill 121 70 806 121 70 806 dirt"
+./mcc.sh "/fill 121 70 807 121 70 807 dirt"
+./mcc.sh "/fill 121 70 808 121 70 808 dirt"
+./mcc.sh "/fill 121 70 809 121 70 809 dirt"
+./mcc.sh "/fill 121 70 810 121 70 810 dirt"
+./mcc.sh "/fill 121 70 811 121 70 811 dirt"
+./mcc.sh "/fill 121 70 812 121 70 812 dirt"
+./mcc.sh "/fill 122 70 800 122 70 800 dirt"
+./mcc.sh "/fill 122 70 801 122 70 801 dirt"
+./mcc.sh "/fill 122 70 802 122 70 802 dirt"
+./mcc.sh "/fill 122 70 803 122 70 803 dirt"
+./mcc.sh "/fill 122 70 804 122 70 804 dirt"
+./mcc.sh "/fill 122 70 805 122 70 805 dirt"
+./mcc.sh "/fill 122 70 806 122 70 806 dirt"
+./mcc.sh "/fill 122 70 807 122 70 807 dirt"
+./mcc.sh "/fill 122 70 808 122 70 808 dirt"
+./mcc.sh "/fill 122 70 809 122 70 809 dirt"
+./mcc.sh "/fill 122 70 810 122 70 810 dirt"
+./mcc.sh "/fill 122 70 811 122 70 811 dirt"
+./mcc.sh "/fill 122 70 812 122 70 812 dirt"
+./mcc.sh "/fill 123 70 800 123 70 800 dirt"
+./mcc.sh "/fill 123 70 801 123 70 801 dirt"
+./mcc.sh "/fill 123 70 802 123 70 802 dirt"
+./mcc.sh "/fill 123 70 803 123 70 803 dirt"
+./mcc.sh "/fill 123 70 804 123 70 804 dirt"
+./mcc.sh "/fill 123 70 805 123 70 805 dirt"
+./mcc.sh "/fill 123 70 806 123 70 806 dirt"
+./mcc.sh "/fill 123 70 807 123 70 807 dirt"
+./mcc.sh "/fill 123 70 808 123 70 808 dirt"
+./mcc.sh "/fill 123 70 809 123 70 809 dirt"
+./mcc.sh "/fill 123 70 810 123 70 810 dirt"
+./mcc.sh "/fill 123 70 811 123 70 811 dirt"
+./mcc.sh "/fill 123 70 812 123 70 812 dirt"
+./mcc.sh "/fill 124 70 800 124 70 800 dirt"
+./mcc.sh "/fill 124 70 801 124 70 801 dirt"
+./mcc.sh "/fill 124 70 802 124 70 802 dirt"
+./mcc.sh "/fill 124 70 803 124 70 803 dirt"
+./mcc.sh "/fill 124 70 804 124 70 804 dirt"
+./mcc.sh "/fill 124 70 805 124 70 805 dirt"
+./mcc.sh "/fill 124 70 806 124 70 806 dirt"
+./mcc.sh "/fill 124 70 807 124 70 807 dirt"
+./mcc.sh "/fill 124 70 808 124 70 808 dirt"
+./mcc.sh "/fill 124 70 809 124 70 809 dirt"
+./mcc.sh "/fill 124 70 810 124 70 810 dirt"
+./mcc.sh "/fill 124 70 811 124 70 811 dirt"
+./mcc.sh "/fill 124 70 812 124 70 812 dirt"
+./mcc.sh "/fill 125 70 800 125 70 800 dirt"
+./mcc.sh "/fill 125 70 801 125 70 801 dirt"
+./mcc.sh "/fill 125 70 802 125 70 802 dirt"
+./mcc.sh "/fill 125 70 803 125 70 803 dirt"
+./mcc.sh "/fill 125 70 804 125 70 804 dirt"
+./mcc.sh "/fill 125 70 805 125 70 805 dirt"
+./mcc.sh "/fill 125 70 806 125 70 806 dirt"
+./mcc.sh "/fill 125 70 807 125 70 807 dirt"
+./mcc.sh "/fill 125 70 808 125 70 808 dirt"
+./mcc.sh "/fill 125 70 809 125 70 809 dirt"
+./mcc.sh "/fill 125 70 810 125 70 810 dirt"
+./mcc.sh "/fill 125 70 811 125 70 811 dirt"
+./mcc.sh "/fill 125 70 812 125 70 812 dirt"
+./mcc.sh "/fill 126 70 800 126 70 800 dirt"
+./mcc.sh "/fill 126 70 801 126 70 801 dirt"
+./mcc.sh "/fill 126 70 802 126 70 802 dirt"
+./mcc.sh "/fill 126 70 803 126 70 803 dirt"
+./mcc.sh "/fill 126 70 804 126 70 804 dirt"
+./mcc.sh "/fill 126 70 805 126 70 805 dirt"
+./mcc.sh "/fill 126 70 806 126 70 806 dirt"
+./mcc.sh "/fill 126 70 807 126 70 807 dirt"
+./mcc.sh "/fill 126 70 808 126 70 808 dirt"
+./mcc.sh "/fill 126 70 809 126 70 809 dirt"
+./mcc.sh "/fill 126 70 810 126 70 810 dirt"
+./mcc.sh "/fill 126 70 811 126 70 811 dirt"
+./mcc.sh "/fill 126 70 812 126 70 812 dirt"
+./mcc.sh "/fill 127 70 800 127 70 800 dirt"
+./mcc.sh "/fill 127 70 801 127 70 801 dirt"
+./mcc.sh "/fill 127 70 802 127 70 802 dirt"
+./mcc.sh "/fill 127 70 803 127 70 803 dirt"
+./mcc.sh "/fill 127 70 804 127 70 804 dirt"
+./mcc.sh "/fill 127 70 805 127 70 805 dirt"
+./mcc.sh "/fill 127 70 806 127 70 806 dirt"
+./mcc.sh "/fill 127 70 807 127 70 807 dirt"
+./mcc.sh "/fill 127 70 808 127 70 808 dirt"
+./mcc.sh "/fill 127 70 809 127 70 809 dirt"
+./mcc.sh "/fill 127 70 810 127 70 810 dirt"
+./mcc.sh "/fill 127 70 811 127 70 811 dirt"
+./mcc.sh "/fill 127 70 812 127 70 812 dirt"
+./mcc.sh "/fill 128 70 800 128 70 800 dirt"
+./mcc.sh "/fill 128 70 801 128 70 801 dirt"
+./mcc.sh "/fill 128 70 802 128 70 802 dirt"
+./mcc.sh "/fill 128 70 803 128 70 803 dirt"
+./mcc.sh "/fill 128 70 804 128 70 804 dirt"
+./mcc.sh "/fill 128 70 805 128 70 805 dirt"
+./mcc.sh "/fill 128 70 806 128 70 806 dirt"
+./mcc.sh "/fill 128 70 807 128 70 807 dirt"
+./mcc.sh "/fill 128 70 808 128 70 808 dirt"
+./mcc.sh "/fill 128 70 809 128 70 809 dirt"
+./mcc.sh "/fill 128 70 810 128 70 810 dirt"
+./mcc.sh "/fill 128 70 811 128 70 811 dirt"
+./mcc.sh "/fill 128 70 812 128 70 812 dirt"
+./mcc.sh "/fill 129 70 800 129 70 800 dirt"
+./mcc.sh "/fill 129 70 801 129 70 801 dirt"
+./mcc.sh "/fill 129 70 802 129 70 802 dirt"
+./mcc.sh "/fill 129 70 803 129 70 803 dirt"
+./mcc.sh "/fill 129 70 804 129 70 804 dirt"
+./mcc.sh "/fill 129 70 805 129 70 805 dirt"
+./mcc.sh "/fill 129 70 806 129 70 806 dirt"
+./mcc.sh "/fill 129 70 807 129 70 807 dirt"
+./mcc.sh "/fill 129 70 808 129 70 808 dirt"
+./mcc.sh "/fill 129 70 809 129 70 809 dirt"
+./mcc.sh "/fill 129 70 810 129 70 810 dirt"
+./mcc.sh "/fill 129 70 811 129 70 811 dirt"
+./mcc.sh "/fill 129 70 812 129 70 812 dirt"
+./mcc.sh "/fill 130 70 800 130 70 800 dirt"
+./mcc.sh "/fill 130 70 801 130 70 801 dirt"
+./mcc.sh "/fill 130 70 802 130 70 802 dirt"
+./mcc.sh "/fill 130 70 803 130 70 803 dirt"
+./mcc.sh "/fill 130 70 804 130 70 804 dirt"
+./mcc.sh "/fill 130 70 805 130 70 805 dirt"
+./mcc.sh "/fill 130 70 806 130 70 806 dirt"
+./mcc.sh "/fill 130 70 807 130 70 807 dirt"
+./mcc.sh "/fill 130 70 808 130 70 808 dirt"
+./mcc.sh "/fill 130 70 809 130 70 809 dirt"
+./mcc.sh "/fill 130 70 810 130 70 810 dirt"
+./mcc.sh "/fill 130 70 811 130 70 811 dirt"
+./mcc.sh "/fill 130 70 812 130 70 812 dirt"
+./mcc.sh "/fill 131 70 800 131 70 800 dirt"
+./mcc.sh "/fill 131 70 801 131 70 801 dirt"
+./mcc.sh "/fill 131 70 802 131 70 802 dirt"
+./mcc.sh "/fill 131 70 803 131 70 803 dirt"
+./mcc.sh "/fill 131 70 804 131 70 804 dirt"
+./mcc.sh "/fill 131 70 805 131 70 805 dirt"
+./mcc.sh "/fill 131 70 806 131 70 806 dirt"
+./mcc.sh "/fill 131 70 807 131 70 807 dirt"
+./mcc.sh "/fill 131 70 808 131 70 808 dirt"
+./mcc.sh "/fill 131 70 809 131 70 809 dirt"
+./mcc.sh "/fill 131 70 810 131 70 810 dirt"
+./mcc.sh "/fill 131 70 811 131 70 811 dirt"
+./mcc.sh "/fill 131 70 812 131 70 812 dirt"
+./mcc.sh "/fill 132 70 800 132 70 800 dirt"
+./mcc.sh "/fill 132 70 801 132 70 801 dirt"
+./mcc.sh "/fill 132 70 802 132 70 802 dirt"
+./mcc.sh "/fill 132 70 803 132 70 803 dirt"
+./mcc.sh "/fill 132 70 804 132 70 804 dirt"
+./mcc.sh "/fill 132 70 805 132 70 805 dirt"
+./mcc.sh "/fill 132 70 806 132 70 806 dirt"
+./mcc.sh "/fill 132 70 807 132 70 807 dirt"
+./mcc.sh "/fill 132 70 808 132 70 808 dirt"
+./mcc.sh "/fill 132 70 809 132 70 809 dirt"
+./mcc.sh "/fill 132 70 810 132 70 810 dirt"
+./mcc.sh "/fill 133 70 800 133 70 800 dirt"
+./mcc.sh "/fill 133 70 801 133 70 801 dirt"
+./mcc.sh "/fill 133 70 802 133 70 802 dirt"
+./mcc.sh "/fill 133 70 803 133 70 803 dirt"
+./mcc.sh "/fill 133 70 804 133 70 804 dirt"
+./mcc.sh "/fill 133 70 805 133 70 805 dirt"
+./mcc.sh "/fill 133 70 806 133 70 806 dirt"
+./mcc.sh "/fill 133 70 807 133 70 807 dirt"
+./mcc.sh "/fill 133 70 808 133 70 808 dirt"
+./mcc.sh "/fill 133 70 809 133 70 809 dirt"
+./mcc.sh "/fill 133 70 810 133 70 810 dirt"
+./mcc.sh "/fill 134 70 800 134 70 800 dirt"
+./mcc.sh "/fill 134 70 801 134 70 801 dirt"
+./mcc.sh "/fill 134 70 802 134 70 802 dirt"
+./mcc.sh "/fill 134 70 803 134 70 803 dirt"
+./mcc.sh "/fill 134 70 804 134 70 804 dirt"
+./mcc.sh "/fill 134 70 805 134 70 805 dirt"
+./mcc.sh "/fill 134 70 806 134 70 806 dirt"
+./mcc.sh "/fill 134 70 807 134 70 807 dirt"
+./mcc.sh "/fill 134 70 808 134 70 808 dirt"
+./mcc.sh "/fill 134 70 809 134 70 809 dirt"
+./mcc.sh "/fill 134 70 810 134 70 810 dirt"
+./mcc.sh "/fill 135 70 800 135 70 800 dirt"
+./mcc.sh "/fill 135 70 801 135 70 801 dirt"
+./mcc.sh "/fill 135 70 802 135 70 802 dirt"
+./mcc.sh "/fill 135 70 803 135 70 803 dirt"
+./mcc.sh "/fill 135 70 804 135 70 804 dirt"
+./mcc.sh "/fill 135 70 805 135 70 805 dirt"
+./mcc.sh "/fill 135 70 806 135 70 806 dirt"
+./mcc.sh "/fill 135 70 807 135 70 807 dirt"
+./mcc.sh "/fill 135 70 808 135 70 808 dirt"
+./mcc.sh "/fill 135 70 809 135 70 809 dirt"
+./mcc.sh "/fill 135 70 810 135 70 810 dirt"
+./mcc.sh "/fill 136 70 800 136 70 800 dirt"
+./mcc.sh "/fill 136 70 801 136 70 801 dirt"
+./mcc.sh "/fill 136 70 802 136 70 802 dirt"
+./mcc.sh "/fill 136 70 803 136 70 803 dirt"
+./mcc.sh "/fill 136 70 804 136 70 804 dirt"
+./mcc.sh "/fill 136 70 805 136 70 805 dirt"
+./mcc.sh "/fill 136 70 806 136 70 806 dirt"
+./mcc.sh "/fill 136 70 807 136 70 807 dirt"
+./mcc.sh "/fill 136 70 808 136 70 808 dirt"
+./mcc.sh "/fill 136 70 809 136 70 809 dirt"
+./mcc.sh "/fill 136 70 810 136 70 810 dirt"
+./mcc.sh "/fill 137 70 800 137 70 800 dirt"
+./mcc.sh "/fill 137 70 801 137 70 801 dirt"
+./mcc.sh "/fill 137 70 802 137 70 802 dirt"
+./mcc.sh "/fill 137 70 803 137 70 803 dirt"
+./mcc.sh "/fill 137 70 804 137 70 804 dirt"
+./mcc.sh "/fill 137 70 805 137 70 805 dirt"
+./mcc.sh "/fill 137 70 806 137 70 806 dirt"
+./mcc.sh "/fill 137 70 807 137 70 807 dirt"
+./mcc.sh "/fill 137 70 808 137 70 808 dirt"
+./mcc.sh "/fill 137 70 809 137 70 809 dirt"
+./mcc.sh "/fill 137 70 810 137 70 810 dirt"
+./mcc.sh "/fill 138 70 800 138 70 800 dirt"
+./mcc.sh "/fill 138 70 801 138 70 801 dirt"
+./mcc.sh "/fill 138 70 802 138 70 802 dirt"
+./mcc.sh "/fill 138 70 803 138 70 803 dirt"
+./mcc.sh "/fill 138 70 804 138 70 804 dirt"
+./mcc.sh "/fill 138 70 805 138 70 805 dirt"
+./mcc.sh "/fill 138 70 806 138 70 806 dirt"
+./mcc.sh "/fill 138 70 807 138 70 807 dirt"
+./mcc.sh "/fill 138 70 808 138 70 808 dirt"
+./mcc.sh "/fill 138 70 809 138 70 809 dirt"
+./mcc.sh "/fill 138 70 810 138 70 810 dirt"
+./mcc.sh "/fill 139 70 800 139 70 800 dirt"
+./mcc.sh "/fill 139 70 801 139 70 801 dirt"
+./mcc.sh "/fill 139 70 802 139 70 802 dirt"
+./mcc.sh "/fill 139 70 803 139 70 803 dirt"
+./mcc.sh "/fill 139 70 804 139 70 804 dirt"
+./mcc.sh "/fill 139 70 805 139 70 805 dirt"
+./mcc.sh "/fill 139 70 806 139 70 806 dirt"
+./mcc.sh "/fill 139 70 807 139 70 807 dirt"
+./mcc.sh "/fill 139 70 808 139 70 808 dirt"
+./mcc.sh "/fill 139 70 809 139 70 809 dirt"
+./mcc.sh "/fill 139 70 810 139 70 810 dirt"
+./mcc.sh "/fill 140 70 800 140 70 800 dirt"
+./mcc.sh "/fill 140 70 801 140 70 801 dirt"
+./mcc.sh "/fill 140 70 802 140 70 802 dirt"
+./mcc.sh "/fill 140 70 803 140 70 803 dirt"
+./mcc.sh "/fill 140 70 804 140 70 804 dirt"
+./mcc.sh "/fill 140 70 805 140 70 805 dirt"
+./mcc.sh "/fill 140 70 806 140 70 806 dirt"
+./mcc.sh "/fill 140 70 807 140 70 807 dirt"
+./mcc.sh "/fill 140 70 808 140 70 808 dirt"
+./mcc.sh "/fill 140 70 809 140 70 809 dirt"
+./mcc.sh "/fill 140 70 810 140 70 810 dirt"
+./mcc.sh "/fill 141 70 800 141 70 800 dirt"
+./mcc.sh "/fill 141 70 801 141 70 801 dirt"
+./mcc.sh "/fill 141 70 802 141 70 802 dirt"
+./mcc.sh "/fill 141 70 803 141 70 803 dirt"
+./mcc.sh "/fill 141 70 804 141 70 804 dirt"
+./mcc.sh "/fill 141 70 805 141 70 805 dirt"
+./mcc.sh "/fill 141 70 806 141 70 806 dirt"
+./mcc.sh "/fill 141 70 807 141 70 807 dirt"
+./mcc.sh "/fill 141 70 808 141 70 808 dirt"
+./mcc.sh "/fill 141 70 809 141 70 809 dirt"
+./mcc.sh "/fill 141 70 810 141 70 810 dirt"
+./mcc.sh "/fill 142 70 800 142 70 800 dirt"
+./mcc.sh "/fill 142 70 801 142 70 801 dirt"
+./mcc.sh "/fill 142 70 802 142 70 802 dirt"
+./mcc.sh "/fill 142 70 803 142 70 803 dirt"
+./mcc.sh "/fill 142 70 804 142 70 804 dirt"
+./mcc.sh "/fill 142 70 805 142 70 805 dirt"
+./mcc.sh "/fill 142 70 806 142 70 806 dirt"
+./mcc.sh "/fill 142 70 807 142 70 807 dirt"
+./mcc.sh "/fill 142 70 808 142 70 808 dirt"
+./mcc.sh "/fill 142 70 809 142 70 809 dirt"
+./mcc.sh "/fill 142 70 810 142 70 810 dirt"
+./mcc.sh "/fill 143 70 800 143 70 800 dirt"
+./mcc.sh "/fill 143 70 801 143 70 801 dirt"
+./mcc.sh "/fill 143 70 802 143 70 802 dirt"
+./mcc.sh "/fill 143 70 803 143 70 803 dirt"
+./mcc.sh "/fill 143 70 804 143 70 804 dirt"
+./mcc.sh "/fill 143 70 805 143 70 805 dirt"
+./mcc.sh "/fill 143 70 806 143 70 806 dirt"
+./mcc.sh "/fill 143 70 807 143 70 807 dirt"
+./mcc.sh "/fill 143 70 808 143 70 808 dirt"
+./mcc.sh "/fill 143 70 809 143 70 809 dirt"
+./mcc.sh "/fill 143 70 810 143 70 810 dirt"
+./mcc.sh "/fill 144 70 800 144 70 800 dirt"
+./mcc.sh "/fill 144 70 801 144 70 801 dirt"
+./mcc.sh "/fill 144 70 802 144 70 802 dirt"
+./mcc.sh "/fill 144 70 803 144 70 803 dirt"
+./mcc.sh "/fill 144 70 804 144 70 804 dirt"
+./mcc.sh "/fill 144 70 805 144 70 805 dirt"
+./mcc.sh "/fill 144 70 806 144 70 806 dirt"
+./mcc.sh "/fill 144 70 807 144 70 807 dirt"
+./mcc.sh "/fill 144 70 808 144 70 808 dirt"
+./mcc.sh "/fill 144 70 809 144 70 809 dirt"
+./mcc.sh "/fill 144 70 810 144 70 810 dirt"
+./mcc.sh "/fill 145 70 800 145 70 800 dirt"
+./mcc.sh "/fill 145 70 801 145 70 801 dirt"
+./mcc.sh "/fill 145 70 802 145 70 802 dirt"
+./mcc.sh "/fill 145 70 803 145 70 803 dirt"
+./mcc.sh "/fill 145 70 804 145 70 804 dirt"
+./mcc.sh "/fill 145 70 805 145 70 805 dirt"
+./mcc.sh "/fill 145 70 806 145 70 806 dirt"
+./mcc.sh "/fill 145 70 807 145 70 807 dirt"
+./mcc.sh "/fill 145 70 808 145 70 808 dirt"
+./mcc.sh "/fill 145 70 809 145 70 809 dirt"
+./mcc.sh "/fill 145 70 810 145 70 810 dirt"
+./mcc.sh "/fill 146 70 800 146 70 800 dirt"
+./mcc.sh "/fill 146 70 801 146 70 801 dirt"
+./mcc.sh "/fill 146 70 802 146 70 802 dirt"
+./mcc.sh "/fill 146 70 803 146 70 803 dirt"
+./mcc.sh "/fill 146 70 804 146 70 804 dirt"
+./mcc.sh "/fill 146 70 805 146 70 805 dirt"
+./mcc.sh "/fill 146 70 806 146 70 806 dirt"
+./mcc.sh "/fill 146 70 807 146 70 807 dirt"
+./mcc.sh "/fill 146 70 808 146 70 808 dirt"
+./mcc.sh "/fill 146 70 809 146 70 809 dirt"
+./mcc.sh "/fill 146 70 810 146 70 810 dirt"
+./mcc.sh "/fill 147 70 800 147 70 800 dirt"
+./mcc.sh "/fill 147 70 801 147 70 801 dirt"
+./mcc.sh "/fill 147 70 802 147 70 802 dirt"
+./mcc.sh "/fill 147 70 803 147 70 803 dirt"
+./mcc.sh "/fill 147 70 804 147 70 804 dirt"
+./mcc.sh "/fill 147 70 805 147 70 805 dirt"
+./mcc.sh "/fill 147 70 806 147 70 806 dirt"
+./mcc.sh "/fill 147 70 807 147 70 807 dirt"
+./mcc.sh "/fill 147 70 808 147 70 808 dirt"
+./mcc.sh "/fill 147 70 809 147 70 809 dirt"
+./mcc.sh "/fill 147 70 810 147 70 810 dirt"
+./mcc.sh "/fill 148 70 800 148 70 800 dirt"
+./mcc.sh "/fill 148 70 801 148 70 801 dirt"
+./mcc.sh "/fill 148 70 802 148 70 802 dirt"
+./mcc.sh "/fill 148 70 803 148 70 803 dirt"
+./mcc.sh "/fill 148 70 804 148 70 804 dirt"
+./mcc.sh "/fill 148 70 805 148 70 805 dirt"
+./mcc.sh "/fill 148 70 806 148 70 806 dirt"
+./mcc.sh "/fill 148 70 807 148 70 807 dirt"
+./mcc.sh "/fill 148 70 808 148 70 808 dirt"
+./mcc.sh "/fill 148 70 809 148 70 809 dirt"
+./mcc.sh "/fill 148 70 810 148 70 810 dirt"
+./mcc.sh "/fill 149 70 800 149 70 800 dirt"
+./mcc.sh "/fill 149 70 801 149 70 801 dirt"
+./mcc.sh "/fill 149 70 802 149 70 802 dirt"
+./mcc.sh "/fill 149 70 803 149 70 803 dirt"
+./mcc.sh "/fill 149 70 804 149 70 804 dirt"
+./mcc.sh "/fill 149 70 805 149 70 805 dirt"
+./mcc.sh "/fill 149 70 806 149 70 806 dirt"
+./mcc.sh "/fill 149 70 807 149 70 807 dirt"
+./mcc.sh "/fill 149 70 808 149 70 808 dirt"
+./mcc.sh "/fill 149 70 809 149 70 809 dirt"
+./mcc.sh "/fill 149 70 810 149 70 810 dirt"
+./mcc.sh "/fill 150 70 800 150 70 800 dirt"
+./mcc.sh "/fill 150 70 801 150 70 801 dirt"
+./mcc.sh "/fill 150 70 802 150 70 802 dirt"
+./mcc.sh "/fill 150 70 803 150 70 803 dirt"
+./mcc.sh "/fill 150 70 804 150 70 804 dirt"
+./mcc.sh "/fill 150 70 805 150 70 805 dirt"
+./mcc.sh "/fill 150 70 806 150 70 806 dirt"
+./mcc.sh "/fill 150 70 807 150 70 807 dirt"
+./mcc.sh "/fill 150 70 808 150 70 808 dirt"
+./mcc.sh "/fill 150 70 809 150 70 809 dirt"
+./mcc.sh "/fill 150 70 810 150 70 810 dirt"
+./mcc.sh "/fill 151 70 800 151 70 800 dirt"
+./mcc.sh "/fill 151 70 801 151 70 801 dirt"
+./mcc.sh "/fill 151 70 802 151 70 802 dirt"
+./mcc.sh "/fill 151 70 803 151 70 803 dirt"
+./mcc.sh "/fill 151 70 804 151 70 804 dirt"
+./mcc.sh "/fill 151 70 805 151 70 805 dirt"
+./mcc.sh "/fill 151 70 806 151 70 806 dirt"
+./mcc.sh "/fill 151 70 807 151 70 807 dirt"
+./mcc.sh "/fill 151 70 808 151 70 808 dirt"
+./mcc.sh "/fill 151 70 809 151 70 809 dirt"
+./mcc.sh "/fill 151 70 810 151 70 810 dirt"
+./mcc.sh "/fill 152 70 800 152 70 800 dirt"
+./mcc.sh "/fill 152 70 801 152 70 801 dirt"
+./mcc.sh "/fill 152 70 802 152 70 802 dirt"
+./mcc.sh "/fill 152 70 803 152 70 803 dirt"
+./mcc.sh "/fill 152 70 804 152 70 804 dirt"
+./mcc.sh "/fill 152 70 805 152 70 805 dirt"
+./mcc.sh "/fill 152 70 806 152 70 806 dirt"
+./mcc.sh "/fill 152 70 807 152 70 807 dirt"
+./mcc.sh "/fill 152 70 808 152 70 808 dirt"
+./mcc.sh "/fill 152 70 809 152 70 809 dirt"
+./mcc.sh "/fill 152 70 810 152 70 810 dirt"
+./mcc.sh "/fill 153 70 800 153 70 800 dirt"
+./mcc.sh "/fill 153 70 801 153 70 801 dirt"
+./mcc.sh "/fill 153 70 802 153 70 802 dirt"
+./mcc.sh "/fill 153 70 803 153 70 803 dirt"
+./mcc.sh "/fill 153 70 804 153 70 804 dirt"
+./mcc.sh "/fill 153 70 805 153 70 805 dirt"
+./mcc.sh "/fill 153 70 806 153 70 806 dirt"
+./mcc.sh "/fill 153 70 807 153 70 807 dirt"
+./mcc.sh "/fill 153 70 808 153 70 808 dirt"
+./mcc.sh "/fill 153 70 809 153 70 809 dirt"
+./mcc.sh "/fill 153 70 810 153 70 810 dirt"
+./mcc.sh "/fill 154 70 800 154 70 800 dirt"
+./mcc.sh "/fill 154 70 801 154 70 801 dirt"
+./mcc.sh "/fill 154 70 802 154 70 802 dirt"
+./mcc.sh "/fill 154 70 803 154 70 803 dirt"
+./mcc.sh "/fill 154 70 804 154 70 804 dirt"
+./mcc.sh "/fill 154 70 805 154 70 805 dirt"
+./mcc.sh "/fill 154 70 806 154 70 806 dirt"
+./mcc.sh "/fill 154 70 807 154 70 807 dirt"
+./mcc.sh "/fill 154 70 808 154 70 808 dirt"
+./mcc.sh "/fill 154 70 809 154 70 809 dirt"
+./mcc.sh "/fill 154 70 810 154 70 810 dirt"
+./mcc.sh "/fill 155 70 800 155 70 800 dirt"
+./mcc.sh "/fill 155 70 801 155 70 801 dirt"
+./mcc.sh "/fill 155 70 802 155 70 802 dirt"
+./mcc.sh "/fill 155 70 803 155 70 803 dirt"
+./mcc.sh "/fill 155 70 804 155 70 804 dirt"
+./mcc.sh "/fill 155 70 805 155 70 805 dirt"
+./mcc.sh "/fill 155 70 806 155 70 806 dirt"
+./mcc.sh "/fill 155 70 807 155 70 807 dirt"
+./mcc.sh "/fill 155 70 808 155 70 808 dirt"
+./mcc.sh "/fill 155 70 809 155 70 809 dirt"
+./mcc.sh "/fill 155 70 810 155 70 810 dirt"
+./mcc.sh "/fill 156 70 800 156 70 800 dirt"
+./mcc.sh "/fill 156 70 801 156 70 801 dirt"
+./mcc.sh "/fill 156 70 802 156 70 802 dirt"
+./mcc.sh "/fill 156 70 803 156 70 803 dirt"
+./mcc.sh "/fill 156 70 804 156 70 804 dirt"
+./mcc.sh "/fill 156 70 805 156 70 805 dirt"
+./mcc.sh "/fill 156 70 806 156 70 806 dirt"
+./mcc.sh "/fill 156 70 807 156 70 807 dirt"
+./mcc.sh "/fill 156 70 808 156 70 808 dirt"
+./mcc.sh "/fill 156 70 809 156 70 809 dirt"
+./mcc.sh "/fill 156 70 810 156 70 810 dirt"
+./mcc.sh "/fill 157 70 800 157 70 800 dirt"
+./mcc.sh "/fill 157 70 801 157 70 801 dirt"
+./mcc.sh "/fill 157 70 802 157 70 802 dirt"
+./mcc.sh "/fill 157 70 803 157 70 803 dirt"
+./mcc.sh "/fill 157 70 804 157 70 804 dirt"
+./mcc.sh "/fill 157 70 805 157 70 805 dirt"
+./mcc.sh "/fill 157 70 806 157 70 806 dirt"
+./mcc.sh "/fill 157 70 807 157 70 807 dirt"
+./mcc.sh "/fill 157 70 808 157 70 808 dirt"
+./mcc.sh "/fill 157 70 809 157 70 809 dirt"
+./mcc.sh "/fill 157 70 810 157 70 810 dirt"
+./mcc.sh "/fill 158 70 800 158 70 800 dirt"
+./mcc.sh "/fill 158 70 801 158 70 801 dirt"
+./mcc.sh "/fill 158 70 802 158 70 802 dirt"
+./mcc.sh "/fill 158 70 803 158 70 803 dirt"
+./mcc.sh "/fill 158 70 804 158 70 804 dirt"
+./mcc.sh "/fill 158 70 805 158 70 805 dirt"
+./mcc.sh "/fill 158 70 806 158 70 806 dirt"
+./mcc.sh "/fill 158 70 807 158 70 807 dirt"
+./mcc.sh "/fill 158 70 808 158 70 808 dirt"
+./mcc.sh "/fill 158 70 809 158 70 809 dirt"
+./mcc.sh "/fill 158 70 810 158 70 810 dirt"
+./mcc.sh "/fill 159 70 800 159 70 800 dirt"
+./mcc.sh "/fill 159 70 801 159 70 801 dirt"
+./mcc.sh "/fill 159 70 802 159 70 802 dirt"
+./mcc.sh "/fill 159 70 803 159 70 803 dirt"
+./mcc.sh "/fill 159 70 804 159 70 804 dirt"
+./mcc.sh "/fill 159 70 805 159 70 805 dirt"
+./mcc.sh "/fill 159 70 806 159 70 806 dirt"
+./mcc.sh "/fill 159 70 807 159 70 807 dirt"
+./mcc.sh "/fill 159 70 808 159 70 808 dirt"
+./mcc.sh "/fill 159 70 809 159 70 809 dirt"
+./mcc.sh "/fill 159 70 810 159 70 810 dirt"
+./mcc.sh "/fill 160 70 800 160 70 800 dirt"
+./mcc.sh "/fill 160 70 801 160 70 801 dirt"
+./mcc.sh "/fill 160 70 802 160 70 802 dirt"
+./mcc.sh "/fill 160 70 803 160 70 803 dirt"
+./mcc.sh "/fill 160 70 804 160 70 804 dirt"
+./mcc.sh "/fill 160 70 805 160 70 805 dirt"
+./mcc.sh "/fill 160 70 806 160 70 806 dirt"
+./mcc.sh "/fill 160 70 807 160 70 807 dirt"
+./mcc.sh "/fill 160 70 808 160 70 808 dirt"
+./mcc.sh "/fill 160 70 809 160 70 809 dirt"
+./mcc.sh "/fill 160 70 810 160 70 810 dirt"
+./mcc.sh "/fill 161 70 800 161 70 800 dirt"
+./mcc.sh "/fill 161 70 801 161 70 801 dirt"
+./mcc.sh "/fill 161 70 802 161 70 802 dirt"
+./mcc.sh "/fill 161 70 803 161 70 803 dirt"
+./mcc.sh "/fill 161 70 804 161 70 804 dirt"
+./mcc.sh "/fill 161 70 805 161 70 805 dirt"
+./mcc.sh "/fill 161 70 806 161 70 806 dirt"
+./mcc.sh "/fill 161 70 807 161 70 807 dirt"
+./mcc.sh "/fill 161 70 808 161 70 808 dirt"
+./mcc.sh "/fill 161 70 809 161 70 809 dirt"
+./mcc.sh "/fill 161 70 810 161 70 810 dirt"
+./mcc.sh "/fill 162 70 800 162 70 800 dirt"
+./mcc.sh "/fill 162 70 801 162 70 801 dirt"
+./mcc.sh "/fill 162 70 802 162 70 802 dirt"
+./mcc.sh "/fill 162 70 803 162 70 803 dirt"
+./mcc.sh "/fill 162 70 804 162 70 804 dirt"
+./mcc.sh "/fill 162 70 805 162 70 805 dirt"
+./mcc.sh "/fill 162 70 806 162 70 806 dirt"
+./mcc.sh "/fill 162 70 807 162 70 807 dirt"
+./mcc.sh "/fill 162 70 808 162 70 808 dirt"
+./mcc.sh "/fill 162 70 809 162 70 809 dirt"
+./mcc.sh "/fill 162 70 810 162 70 810 dirt"
+./mcc.sh "/fill 163 70 800 163 70 800 dirt"
+./mcc.sh "/fill 163 70 801 163 70 801 dirt"
+./mcc.sh "/fill 163 70 802 163 70 802 dirt"
+./mcc.sh "/fill 163 70 803 163 70 803 dirt"
+./mcc.sh "/fill 163 70 804 163 70 804 dirt"
+./mcc.sh "/fill 163 70 805 163 70 805 dirt"
+./mcc.sh "/fill 163 70 806 163 70 806 dirt"
+./mcc.sh "/fill 163 70 807 163 70 807 dirt"
+./mcc.sh "/fill 163 70 808 163 70 808 dirt"
+./mcc.sh "/fill 163 70 809 163 70 809 dirt"
+./mcc.sh "/fill 163 70 810 163 70 810 dirt"
+./mcc.sh "/fill 164 70 800 164 70 800 dirt"
+./mcc.sh "/fill 164 70 801 164 70 801 dirt"
+./mcc.sh "/fill 164 70 802 164 70 802 dirt"
+./mcc.sh "/fill 164 70 803 164 70 803 dirt"
+./mcc.sh "/fill 164 70 804 164 70 804 dirt"
+./mcc.sh "/fill 164 70 805 164 70 805 dirt"
+./mcc.sh "/fill 164 70 806 164 70 806 dirt"
+./mcc.sh "/fill 164 70 807 164 70 807 dirt"
+./mcc.sh "/fill 164 70 808 164 70 808 dirt"
+./mcc.sh "/fill 164 70 809 164 70 809 dirt"
+./mcc.sh "/fill 164 70 810 164 70 810 dirt"
+./mcc.sh "/fill 165 70 800 165 70 800 dirt"
+./mcc.sh "/fill 165 70 801 165 70 801 dirt"
+./mcc.sh "/fill 165 70 802 165 70 802 dirt"
+./mcc.sh "/fill 165 70 803 165 70 803 dirt"
+./mcc.sh "/fill 165 70 804 165 70 804 dirt"
+./mcc.sh "/fill 165 70 805 165 70 805 dirt"
+./mcc.sh "/fill 165 70 806 165 70 806 dirt"
+./mcc.sh "/fill 165 70 807 165 70 807 dirt"
+./mcc.sh "/fill 165 70 808 165 70 808 dirt"
+./mcc.sh "/fill 165 70 809 165 70 809 dirt"
+./mcc.sh "/fill 165 70 810 165 70 810 dirt"
+./mcc.sh "/fill 166 70 800 166 70 800 dirt"
+./mcc.sh "/fill 166 70 801 166 70 801 dirt"
+./mcc.sh "/fill 166 70 802 166 70 802 dirt"
+./mcc.sh "/fill 166 70 803 166 70 803 dirt"
+./mcc.sh "/fill 166 70 804 166 70 804 dirt"
+./mcc.sh "/fill 166 70 805 166 70 805 dirt"
+./mcc.sh "/fill 166 70 806 166 70 806 dirt"
+./mcc.sh "/fill 166 70 807 166 70 807 dirt"
+./mcc.sh "/fill 166 70 808 166 70 808 dirt"
+./mcc.sh "/fill 166 70 809 166 70 809 dirt"
+./mcc.sh "/fill 166 70 810 166 70 810 dirt"
+./mcc.sh "/fill 167 70 800 167 70 800 dirt"
+./mcc.sh "/fill 167 70 801 167 70 801 dirt"
+./mcc.sh "/fill 167 70 802 167 70 802 dirt"
+./mcc.sh "/fill 167 70 803 167 70 803 dirt"
+./mcc.sh "/fill 167 70 804 167 70 804 dirt"
+./mcc.sh "/fill 167 70 805 167 70 805 dirt"
+./mcc.sh "/fill 167 70 806 167 70 806 dirt"
+./mcc.sh "/fill 167 70 807 167 70 807 dirt"
+./mcc.sh "/fill 167 70 808 167 70 808 dirt"
+./mcc.sh "/fill 167 70 809 167 70 809 dirt"
+./mcc.sh "/fill 167 70 810 167 70 810 dirt"
+./mcc.sh "/fill 168 70 800 168 70 800 dirt"
+./mcc.sh "/fill 168 70 801 168 70 801 dirt"
+./mcc.sh "/fill 168 70 802 168 70 802 dirt"
+./mcc.sh "/fill 168 70 803 168 70 803 dirt"
+./mcc.sh "/fill 168 70 804 168 70 804 dirt"
+./mcc.sh "/fill 168 70 805 168 70 805 dirt"
+./mcc.sh "/fill 168 70 806 168 70 806 dirt"
+./mcc.sh "/fill 168 70 807 168 70 807 dirt"
+./mcc.sh "/fill 168 70 808 168 70 808 dirt"
+./mcc.sh "/fill 168 70 809 168 70 809 dirt"
+./mcc.sh "/fill 168 70 810 168 70 810 dirt"
+./mcc.sh "/fill 169 70 800 169 70 800 dirt"
+./mcc.sh "/fill 169 70 801 169 70 801 dirt"
+./mcc.sh "/fill 169 70 802 169 70 802 dirt"
+./mcc.sh "/fill 169 70 803 169 70 803 dirt"
+./mcc.sh "/fill 169 70 804 169 70 804 dirt"
+./mcc.sh "/fill 169 70 805 169 70 805 dirt"
+./mcc.sh "/fill 169 70 806 169 70 806 dirt"
+./mcc.sh "/fill 169 70 807 169 70 807 dirt"
+./mcc.sh "/fill 169 70 808 169 70 808 dirt"
+./mcc.sh "/fill 169 70 809 169 70 809 dirt"
+./mcc.sh "/fill 169 70 810 169 70 810 dirt"
+./mcc.sh "/fill 170 70 800 170 70 800 dirt"
+./mcc.sh "/fill 170 70 801 170 70 801 dirt"
+./mcc.sh "/fill 170 70 802 170 70 802 dirt"
+./mcc.sh "/fill 170 70 803 170 70 803 dirt"
+./mcc.sh "/fill 170 70 804 170 70 804 dirt"
+./mcc.sh "/fill 170 70 805 170 70 805 dirt"
+./mcc.sh "/fill 170 70 806 170 70 806 dirt"
+./mcc.sh "/fill 170 70 807 170 70 807 dirt"
+./mcc.sh "/fill 170 70 808 170 70 808 dirt"
+./mcc.sh "/fill 170 70 809 170 70 809 dirt"
+./mcc.sh "/fill 170 70 810 170 70 810 dirt"
+./mcc.sh "/fill 171 70 800 171 70 800 dirt"
+./mcc.sh "/fill 171 70 801 171 70 801 dirt"
+./mcc.sh "/fill 171 70 802 171 70 802 dirt"
+./mcc.sh "/fill 171 70 803 171 70 803 dirt"
+./mcc.sh "/fill 171 70 804 171 70 804 dirt"
+./mcc.sh "/fill 171 70 805 171 70 805 dirt"
+./mcc.sh "/fill 171 70 806 171 70 806 dirt"
+./mcc.sh "/fill 171 70 807 171 70 807 dirt"
+./mcc.sh "/fill 171 70 808 171 70 808 dirt"
+./mcc.sh "/fill 171 70 809 171 70 809 dirt"
+./mcc.sh "/fill 171 70 810 171 70 810 dirt"
+./mcc.sh "/fill 172 70 800 172 70 800 dirt"
+./mcc.sh "/fill 172 70 801 172 70 801 dirt"
+./mcc.sh "/fill 172 70 802 172 70 802 dirt"
+./mcc.sh "/fill 172 70 803 172 70 803 dirt"
+./mcc.sh "/fill 172 70 804 172 70 804 dirt"
+./mcc.sh "/fill 172 70 805 172 70 805 dirt"
+./mcc.sh "/fill 172 70 806 172 70 806 dirt"
+./mcc.sh "/fill 172 70 807 172 70 807 dirt"
+./mcc.sh "/fill 172 70 808 172 70 808 dirt"
+./mcc.sh "/fill 172 70 809 172 70 809 dirt"
+./mcc.sh "/fill 172 70 810 172 70 810 dirt"
+./mcc.sh "/fill 173 70 800 173 70 800 dirt"
+./mcc.sh "/fill 173 70 801 173 70 801 dirt"
+./mcc.sh "/fill 173 70 802 173 70 802 dirt"
+./mcc.sh "/fill 173 70 803 173 70 803 dirt"
+./mcc.sh "/fill 173 70 804 173 70 804 dirt"
+./mcc.sh "/fill 173 70 805 173 70 805 dirt"
+./mcc.sh "/fill 173 70 806 173 70 806 dirt"
+./mcc.sh "/fill 173 70 807 173 70 807 dirt"
+./mcc.sh "/fill 173 70 808 173 70 808 dirt"
+./mcc.sh "/fill 173 70 809 173 70 809 dirt"
+./mcc.sh "/fill 173 70 810 173 70 810 dirt"
+./mcc.sh "/fill 174 70 800 174 70 800 dirt"
+./mcc.sh "/fill 174 70 801 174 70 801 dirt"
+./mcc.sh "/fill 174 70 802 174 70 802 dirt"
+./mcc.sh "/fill 174 70 803 174 70 803 dirt"
+./mcc.sh "/fill 174 70 804 174 70 804 dirt"
+./mcc.sh "/fill 174 70 805 174 70 805 dirt"
+./mcc.sh "/fill 174 70 806 174 70 806 dirt"
+./mcc.sh "/fill 174 70 807 174 70 807 dirt"
+./mcc.sh "/fill 174 70 808 174 70 808 dirt"
+./mcc.sh "/fill 174 70 809 174 70 809 dirt"
+./mcc.sh "/fill 174 70 810 174 70 810 dirt"
+./mcc.sh "/fill 175 70 800 175 70 800 dirt"
+./mcc.sh "/fill 175 70 801 175 70 801 dirt"
+./mcc.sh "/fill 175 70 802 175 70 802 dirt"
+./mcc.sh "/fill 175 70 803 175 70 803 dirt"
+./mcc.sh "/fill 175 70 804 175 70 804 dirt"
+./mcc.sh "/fill 175 70 805 175 70 805 dirt"
+./mcc.sh "/fill 175 70 806 175 70 806 dirt"
+./mcc.sh "/fill 175 70 807 175 70 807 dirt"
+./mcc.sh "/fill 175 70 808 175 70 808 dirt"
+./mcc.sh "/fill 175 70 809 175 70 809 dirt"
+./mcc.sh "/fill 175 70 810 175 70 810 dirt"

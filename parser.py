@@ -15,7 +15,7 @@ ox = 40
 oy = 70
 oz = 800
 
-lines = []
+lines = ['#!/bin/sh']
 
 for x in range(width):
     for y in range(height):
@@ -28,7 +28,7 @@ for x in range(width):
             # black pixel
             if r == 255 and g == 255 and b == 255:
                 # axis transformations
-                dx = -x
+                dx = x
                 dy = 0
                 dz = y
                 # result points
@@ -36,20 +36,11 @@ for x in range(width):
                 ry = oy + dy
                 rz = oz + dz
 
-                fill_command = f'/fill {rx} {ry} {rz} {rx} {ry} {rz} dirt'
+                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry} {rz} dirt"'
                 lines.append(fill_command)
                 # print(fill_command)
+            else:
+                print(f'RGB: {r} {g} {b}')
 
 with open('buildcommands.txt', 'w') as f:
     f.write('\n'.join(lines))
-
-# if img.mode in ('RGBA', 'LA') or (img.mode == 'P' and 'transparency' in img.info):   
-#     pixels = img.convert('RGBA').load()
-#     width, height = img.size
-
-#     print('TESTING')
-
-#     for x in range(width):
-#         for y in range(height):
-#             r, g, b, a = pixels[x, y]
-#             print('hey')
