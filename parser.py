@@ -32,14 +32,14 @@ for x in range(width):
                 # axis transformations
                 dx = y # -x
                 dy = 0
-                dz = x # -y
+                dz = -x # -y
                 # result points
                 rx = ox + dx
                 ry = oy + dy
                 ry_end = ry + tall
                 rz = oz + dz
 
-                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry_end} {rz} stone"'
+                fill_command = f'./mcc.sh "/fill {rx} {ry} {rz} {rx} {ry_end} {rz} stone_bricks"'
                 lines.append(fill_command)
                 # print(fill_command)
             else:
