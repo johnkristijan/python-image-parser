@@ -23,3 +23,7 @@ NOTE: replace ssh login info with your username@server_ip and the cd mc_scripts 
 
 3. enter your password and voila!
 NOTE: save your ssh password so you dont need to add the password each time
+
+# topology
+from google maps to grayscale topology
+https://docs.google.com/spreadsheets/d/1ICZTqCt6ti9W_bGJS-2ukzJuc2qVrIVUcm7LRVwuvSk/edit#gid=0
